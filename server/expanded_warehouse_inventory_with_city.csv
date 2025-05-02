@@ -1,0 +1,751 @@
+store_id,product_id,product_name,category,current_stock,product_company,Expiry_Date,Product_Rate,Total_Rate,threshold_value,City
+NYC-001,PROD-0001,Pasta,grocery,161,Kroger,2026-04-04 20:06:59.835396,430.52,69314.36,10,New York
+NYC-001,PROD-0002,Dining Table,furniture,160,La-Z-Boy,2035-12-31,589.16,94265.64,22,New York
+NYC-001,PROD-0003,Noodles,grocery,78,Kroger,2027-02-13 20:06:59.835817,82.19,6410.73,33,New York
+NYC-001,PROD-0004,Game Console,electronics,150,HP,2030-01-01,840.78,126116.95,34,New York
+NYC-001,PROD-0005,Camera,electronics,158,LG,2030-01-01,484.06,76482.18,44,New York
+NYC-001,PROD-0006,Canned Beans,grocery,148,Safeway,2026-12-08 20:06:59.836280,623.68,92304.05,36,New York
+NYC-001,PROD-0007,Desk,furniture,164,Wayfair,2035-12-31,969.64,159020.47,30,New York
+NYC-001,PROD-0008,Shorts,clothing,137,Puma,2028-06-30,625.96,85756.69,12,New York
+NYC-001,PROD-0009,Chair,furniture,193,IKEA,2035-12-31,253.29,48885.23,49,New York
+NYC-001,PROD-0010,Juice,beverages,23,Gatorade,2025-08-21 20:06:59.836566,868.34,19971.91,46,New York
+NYC-001,PROD-0011,Iced Tea,beverages,100,Monster,2025-05-26 20:06:59.836682,740.0,74000.13,32,New York
+NYC-001,PROD-0012,Milk,beverages,80,Lipton,2026-05-28 20:06:59.836792,11.74,939.23,12,New York
+NYC-001,PROD-0013,Yogurt,grocery,186,Albertsons,2026-03-14 20:06:59.836882,829.39,154266.33,40,New York
+NYC-001,PROD-0014,Portable Charger,electronics,183,Bose,2030-01-01,411.28,75265.03,19,New York
+NYC-001,PROD-0015,Suit,clothing,138,Nike,2028-06-30,372.71,51434.11,24,New York
+NYC-001,PROD-0016,Sneakers,clothing,108,Uniqlo,2028-06-30,168.21,18166.94,45,New York
+NYC-001,PROD-0017,Bookshelf,furniture,97,Ashley,2035-12-31,249.96,24246.08,35,New York
+NYC-001,PROD-0018,Armchair,furniture,198,West Elm,2035-12-31,721.65,142887.35,26,New York
+NYC-001,PROD-0019,Tablet,electronics,138,Apple,2030-01-01,625.77,86355.64,22,New York
+NYC-001,PROD-0020,Sofa,furniture,163,Crate & Barrel,2035-12-31,922.96,150442.97,19,New York
+NYC-001,PROD-0021,Television,electronics,197,Bose,2030-01-01,209.09,41190.05,16,New York
+NYC-001,PROD-0022,Jeans,clothing,140,Gap,2028-06-30,193.87,27141.29,34,New York
+NYC-001,PROD-0023,Hoodie,clothing,70,Zara,2028-06-30,751.15,52580.2,43,New York
+NYC-001,PROD-0024,Lemonade,beverages,145,Nestlé,2025-10-29 20:06:59.837334,790.91,114682.32,25,New York
+NYC-001,PROD-0025,Bed,furniture,165,Steelcase,2035-12-31,431.17,71142.88,19,New York
+NYC-001,PROD-0026,Cabinet,furniture,64,Crate & Barrel,2035-12-31,208.35,13334.49,15,New York
+NYC-001,PROD-0027,Rice,grocery,62,Albertsons,2027-03-11 20:06:59.837590,998.58,61911.97,43,New York
+NYC-001,PROD-0028,Table,furniture,87,West Elm,2035-12-31,590.53,51375.89,31,New York
+NYC-001,PROD-0029,Smart Speaker,electronics,151,Huawei,2030-01-01,449.45,67866.56,34,New York
+NYC-001,PROD-0030,Water,beverages,40,Fanta,2026-03-25 20:06:59.838197,941.45,37658.12,21,New York
+NYC-001,PROD-0031,Dress,clothing,53,Adidas,2028-06-30,133.39,7069.57,15,New York
+NYC-001,PROD-0032,Tea,beverages,133,Red Bull,2026-11-16 20:06:59.839039,578.64,76959.4,11,New York
+NYC-001,PROD-0033,Soda,beverages,143,Fanta,2026-06-16 20:06:59.839268,323.17,46212.79,43,New York
+NYC-001,PROD-0034,Sweater,clothing,92,Under Armour,2028-06-30,498.06,45821.95,26,New York
+NYC-001,PROD-0035,Headphones,electronics,98,Dell,2030-01-01,972.12,95267.65,18,New York
+NYC-001,PROD-0036,Spices,grocery,33,Whole Foods,2026-12-24 20:06:59.839930,354.09,11685.11,17,New York
+NYC-001,PROD-0037,Smartphone,electronics,19,Huawei,2030-01-01,477.94,9080.88,35,New York
+NYC-001,PROD-0038,Bread,grocery,121,Target,2025-08-01 20:06:59.840742,944.79,114319.89,33,New York
+NYC-001,PROD-0039,Energy Drink,beverages,101,Dr Pepper,2027-01-15 20:06:59.840962,201.21,20322.32,33,New York
+NYC-001,PROD-0040,Nightstand,furniture,84,Steelcase,2035-12-31,20.7,1738.76,11,New York
+NYC-001,PROD-0041,Laptop,electronics,74,Bose,2030-01-01,251.45,18607.13,33,New York
+NYC-001,PROD-0042,Vegetables,grocery,33,Target,2025-12-23 20:06:59.841705,281.07,9275.23,46,New York
+NYC-001,PROD-0043,Cereal,grocery,139,Kroger,2025-11-24 20:06:59.841920,283.7,39433.75,15,New York
+NYC-001,PROD-0044,Coconut Water,beverages,95,Dr Pepper,2026-07-17 20:06:59.842488,444.98,42273.06,30,New York
+NYC-001,PROD-0045,Scarf,clothing,90,Gap,2028-06-30,63.98,5757.97,20,New York
+NYC-001,PROD-0046,Jacket,clothing,169,Uniqlo,2028-06-30,27.8,4697.98,29,New York
+NYC-001,PROD-0047,Coffee,beverages,145,Monster,2025-11-07 20:06:59.843936,649.62,94195.61,41,New York
+NYC-001,PROD-0048,T-Shirt,clothing,90,Zara,2028-06-30,32.82,2954.15,11,New York
+NYC-001,PROD-0049,Fruits,grocery,76,Kroger,2025-10-18 20:06:59.845437,70.37,5347.88,41,New York
+NYC-001,PROD-0050,Smartwatch,electronics,197,HP,2030-01-01,229.21,45155.25,42,New York
+NYC-002,PROD-0051,Scarf,clothing,78,H&M,2028-06-30,904.06,70516.63,26,New York
+NYC-002,PROD-0052,Sneakers,clothing,19,H&M,2028-06-30,470.01,8930.26,14,New York
+NYC-002,PROD-0053,Television,electronics,52,Microsoft,2030-01-01,417.23,21696.14,11,New York
+NYC-002,PROD-0054,Spices,grocery,87,Kroger,2025-12-25 20:06:59.847415,191.33,16645.58,36,New York
+NYC-002,PROD-0055,Rice,grocery,113,Trader Joe's,2025-10-20 20:06:59.847635,399.05,45092.49,12,New York
+NYC-002,PROD-0056,Smartwatch,electronics,179,Panasonic,2030-01-01,171.72,30737.04,32,New York
+NYC-002,PROD-0057,Tea,beverages,187,Monster,2027-01-04 20:06:59.847960,951.47,177925.57,27,New York
+NYC-002,PROD-0058,Laptop,electronics,75,Huawei,2030-01-01,266.54,19990.21,41,New York
+NYC-002,PROD-0059,Jacket,clothing,89,Uniqlo,2028-06-30,221.22,19688.76,26,New York
+NYC-002,PROD-0060,Soda,beverages,36,Pepsi,2026-05-09 20:06:59.848364,851.84,30666.09,21,New York
+NYC-002,PROD-0061,Energy Drink,beverages,146,Dr Pepper,2026-10-24 20:06:59.848533,797.51,116437.01,14,New York
+NYC-002,PROD-0062,Headphones,electronics,107,Huawei,2030-01-01,607.04,64953.33,34,New York
+NYC-002,PROD-0063,Lemonade,beverages,101,Nestlé,2026-05-01 20:06:59.848703,410.34,41443.93,15,New York
+NYC-002,PROD-0064,Portable Charger,electronics,170,Bose,2030-01-01,21.51,3655.95,23,New York
+NYC-002,PROD-0065,Water,beverages,156,Coca-Cola,2025-10-26 20:06:59.848821,75.55,11786.4,43,New York
+NYC-002,PROD-0066,Tablet,electronics,114,Dell,2030-01-01,613.85,69979.09,38,New York
+NYC-002,PROD-0067,Noodles,grocery,197,Trader Joe's,2026-11-12 20:06:59.848948,136.26,26842.39,38,New York
+NYC-002,PROD-0068,Dress,clothing,172,H&M,2028-06-30,367.16,63150.97,21,New York
+NYC-002,PROD-0069,Armchair,furniture,105,Steelcase,2035-12-31,811.22,85178.4,36,New York
+NYC-002,PROD-0070,Table,furniture,93,Crate & Barrel,2035-12-31,359.98,33478.19,25,New York
+NYC-002,PROD-0071,Smartphone,electronics,75,Samsung,2030-01-01,554.86,41614.27,39,New York
+NYC-002,PROD-0072,Pasta,grocery,110,Kroger,2027-01-07 20:06:59.849217,955.82,105140.58,40,New York
+NYC-002,PROD-0073,Desk,furniture,54,Ashley,2035-12-31,10.8,583.44,35,New York
+NYC-002,PROD-0074,Chair,furniture,171,La-Z-Boy,2035-12-31,628.44,107463.62,40,New York
+NYC-002,PROD-0075,Cabinet,furniture,153,Restoration Hardware,2035-12-31,959.1,146742.27,22,New York
+NYC-002,PROD-0076,Suit,clothing,162,Nike,2028-06-30,663.08,107419.22,36,New York
+NYC-002,PROD-0077,Vegetables,grocery,189,Trader Joe's,2026-02-27 20:06:59.849502,98.31,18580.33,20,New York
+NYC-002,PROD-0078,Nightstand,furniture,114,La-Z-Boy,2035-12-31,521.47,59447.54,47,New York
+NYC-002,PROD-0079,Coffee,beverages,199,Red Bull,2026-11-14 20:06:59.849708,566.09,112650.92,34,New York
+NYC-002,PROD-0080,Fruits,grocery,139,Aldi,2027-04-10 20:06:59.849845,273.11,37961.93,49,New York
+NYC-002,PROD-0081,Bread,grocery,173,Kroger,2026-07-31 20:06:59.849925,508.76,88015.59,47,New York
+NYC-002,PROD-0082,Sofa,furniture,179,Crate & Barrel,2035-12-31,816.18,146096.43,37,New York
+NYC-002,PROD-0083,Sweater,clothing,123,Reebok,2028-06-30,22.85,2810.56,13,New York
+NYC-002,PROD-0084,Camera,electronics,54,Bose,2030-01-01,404.61,21848.91,37,New York
+NYC-002,PROD-0085,Cereal,grocery,86,Safeway,2025-07-27 20:06:59.850395,506.24,43536.62,17,New York
+NYC-002,PROD-0086,Bookshelf,furniture,175,Restoration Hardware,2035-12-31,348.19,60934.09,41,New York
+NYC-002,PROD-0087,Shorts,clothing,35,Adidas,2028-06-30,861.48,30151.82,21,New York
+NYC-002,PROD-0088,Canned Beans,grocery,12,Safeway,2025-09-09 20:06:59.850579,429.77,5157.27,16,New York
+NYC-002,PROD-0089,Juice,beverages,110,Gatorade,2025-09-23 20:06:59.850758,92.84,10212.4,14,New York
+NYC-002,PROD-0090,Dining Table,furniture,38,Restoration Hardware,2035-12-31,818.16,31090.04,26,New York
+NYC-002,PROD-0091,Hoodie,clothing,10,Adidas,2028-06-30,868.24,8682.36,15,New York
+NYC-002,PROD-0092,Yogurt,grocery,159,Kroger,2026-11-26 20:06:59.851200,443.35,70492.9,21,New York
+NYC-002,PROD-0093,T-Shirt,clothing,111,Uniqlo,2028-06-30,131.41,14586.76,12,New York
+NYC-002,PROD-0094,Jeans,clothing,193,Gap,2028-06-30,112.21,21656.6,35,New York
+NYC-002,PROD-0095,Coconut Water,beverages,97,Lipton,2025-06-08 20:06:59.851494,433.75,42073.59,49,New York
+NYC-002,PROD-0096,Smart Speaker,electronics,192,Microsoft,2030-01-01,685.05,131528.79,49,New York
+NYC-002,PROD-0097,Milk,beverages,165,Gatorade,2026-10-18 20:06:59.851689,653.71,107861.36,48,New York
+NYC-002,PROD-0098,Game Console,electronics,62,Bose,2030-01-01,994.1,61634.5,43,New York
+NYC-002,PROD-0099,Bed,furniture,154,Restoration Hardware,2035-12-31,488.14,75173.18,41,New York
+NYC-002,PROD-0100,Iced Tea,beverages,184,Coca-Cola,2026-01-01 20:06:59.852957,182.0,33488.09,35,New York
+NYC-003,PROD-0101,Camera,electronics,79,Panasonic,2030-01-01,193.48,15284.56,26,New York
+NYC-003,PROD-0102,Smart Speaker,electronics,14,Sony,2030-01-01,670.39,9385.52,32,New York
+NYC-003,PROD-0103,Cereal,grocery,113,Aldi,2025-11-03 20:06:59.853125,205.28,23196.45,26,New York
+NYC-003,PROD-0104,Portable Charger,electronics,169,Huawei,2030-01-01,848.51,143398.23,22,New York
+NYC-003,PROD-0105,Coffee,beverages,30,Monster,2026-08-25 20:06:59.853240,518.52,15555.57,21,New York
+NYC-003,PROD-0106,Bookshelf,furniture,84,Restoration Hardware,2035-12-31,430.5,36161.87,13,New York
+NYC-003,PROD-0107,Jeans,clothing,186,Puma,2028-06-30,960.78,178705.79,19,New York
+NYC-003,PROD-0108,Television,electronics,199,Huawei,2030-01-01,370.78,73785.02,37,New York
+NYC-003,PROD-0109,Tea,beverages,180,Gatorade,2026-09-05 20:06:59.853414,759.41,136694.15,16,New York
+NYC-003,PROD-0110,Juice,beverages,196,Sprite,2026-01-08 20:06:59.853503,570.02,111723.72,16,New York
+NYC-003,PROD-0111,Milk,beverages,55,Fanta,2026-10-02 20:06:59.853604,426.2,23440.94,46,New York
+NYC-003,PROD-0112,Sneakers,clothing,71,Uniqlo,2028-06-30,608.03,43169.8,16,New York
+NYC-003,PROD-0113,Dining Table,furniture,18,Restoration Hardware,2035-12-31,789.6,14212.75,42,New York
+NYC-003,PROD-0114,Armchair,furniture,36,Ashley,2035-12-31,309.91,11156.73,44,New York
+NYC-003,PROD-0115,Bed,furniture,175,West Elm,2035-12-31,929.93,162738.37,44,New York
+NYC-003,PROD-0116,Coconut Water,beverages,177,Red Bull,2025-11-25 20:06:59.853779,473.15,83748.03,35,New York
+NYC-003,PROD-0117,Energy Drink,beverages,72,Nestlé,2026-07-31 20:06:59.853923,284.13,20457.7,19,New York
+NYC-003,PROD-0118,Dress,clothing,150,Uniqlo,2028-06-30,678.89,101832.78,42,New York
+NYC-003,PROD-0119,Vegetables,grocery,164,Albertsons,2025-12-29 20:06:59.854049,888.72,145750.24,27,New York
+NYC-003,PROD-0120,T-Shirt,clothing,10,Puma,2028-06-30,506.92,5069.17,23,New York
+NYC-003,PROD-0121,Nightstand,furniture,145,Ashley,2035-12-31,901.98,130787.0,47,New York
+NYC-003,PROD-0122,Sofa,furniture,184,Room & Board,2035-12-31,928.4,170825.26,38,New York
+NYC-003,PROD-0123,Soda,beverages,197,Sprite,2025-09-27 20:06:59.854277,127.17,25053.11,33,New York
+NYC-003,PROD-0124,Canned Beans,grocery,125,Kroger,2026-04-15 20:06:59.854377,141.92,17740.16,21,New York
+NYC-003,PROD-0125,Lemonade,beverages,58,Gatorade,2025-12-30 20:06:59.854455,785.83,45577.85,27,New York
+NYC-003,PROD-0126,Cabinet,furniture,182,Steelcase,2035-12-31,258.35,47019.23,16,New York
+NYC-003,PROD-0127,Smartphone,electronics,62,Huawei,2030-01-01,136.65,8472.32,37,New York
+NYC-003,PROD-0128,Yogurt,grocery,180,Albertsons,2026-11-13 20:06:59.854636,133.66,24059.11,24,New York
+NYC-003,PROD-0129,Hoodie,clothing,116,Under Armour,2028-06-30,964.27,111855.45,49,New York
+NYC-003,PROD-0130,Jacket,clothing,165,H&M,2028-06-30,632.06,104289.42,28,New York
+NYC-003,PROD-0131,Headphones,electronics,42,LG,2030-01-01,76.34,3206.27,10,New York
+NYC-003,PROD-0132,Pasta,grocery,63,Walmart,2025-07-01 20:06:59.854875,270.43,17037.36,13,New York
+NYC-003,PROD-0133,Table,furniture,25,Ashley,2035-12-31,861.63,21540.75,12,New York
+NYC-003,PROD-0134,Tablet,electronics,168,LG,2030-01-01,164.0,27551.88,16,New York
+NYC-003,PROD-0135,Suit,clothing,24,Puma,2028-06-30,562.8,13507.25,40,New York
+NYC-003,PROD-0136,Shorts,clothing,35,Under Armour,2028-06-30,690.28,24159.69,16,New York
+NYC-003,PROD-0137,Desk,furniture,113,Ashley,2035-12-31,328.72,37144.9,33,New York
+NYC-003,PROD-0138,Laptop,electronics,121,Samsung,2030-01-01,950.39,114997.0,46,New York
+NYC-003,PROD-0139,Fruits,grocery,157,Publix,2025-09-26 20:06:59.855420,114.31,17947.39,34,New York
+NYC-003,PROD-0140,Scarf,clothing,60,H&M,2028-06-30,434.01,26040.9,39,New York
+NYC-003,PROD-0141,Smartwatch,electronics,96,Dell,2030-01-01,682.95,65563.4,21,New York
+NYC-003,PROD-0142,Chair,furniture,98,Room & Board,2035-12-31,33.35,3268.24,34,New York
+NYC-003,PROD-0143,Rice,grocery,124,Costco,2025-09-07 20:06:59.855972,913.1,113224.21,12,New York
+NYC-003,PROD-0144,Noodles,grocery,72,Publix,2027-03-01 20:06:59.856218,254.83,18348.09,44,New York
+NYC-003,PROD-0145,Iced Tea,beverages,168,Coca-Cola,2026-11-19 20:06:59.856489,219.73,36915.32,29,New York
+NYC-003,PROD-0146,Spices,grocery,158,Trader Joe's,2027-03-18 20:06:59.856674,122.39,19337.96,43,New York
+NYC-003,PROD-0147,Game Console,electronics,56,HP,2030-01-01,127.26,7126.44,24,New York
+NYC-003,PROD-0148,Bread,grocery,82,Trader Joe's,2025-06-01 20:06:59.857195,447.34,36681.78,41,New York
+NYC-003,PROD-0149,Sweater,clothing,42,H&M,2028-06-30,790.01,33180.33,45,New York
+NYC-003,PROD-0150,Water,beverages,30,Pepsi,2026-11-18 20:06:59.858755,410.55,12316.38,31,New York
+LA-001,PROD-0151,Game Console,electronics,112,HP,2030-01-01,690.22,77304.99,18,Los Angeles
+LA-001,PROD-0152,Smartphone,electronics,28,Dell,2030-01-01,987.66,27654.35,39,Los Angeles
+LA-001,PROD-0153,Portable Charger,electronics,155,HP,2030-01-01,406.95,63077.31,29,Los Angeles
+LA-001,PROD-0154,Tablet,electronics,32,Bose,2030-01-01,19.03,609.02,26,Los Angeles
+LA-001,PROD-0155,Yogurt,grocery,86,Publix,2026-07-04 20:06:59.858940,95.6,8221.54,47,Los Angeles
+LA-001,PROD-0156,Juice,beverages,183,Coca-Cola,2025-07-17 20:06:59.859022,336.18,61520.1,36,Los Angeles
+LA-001,PROD-0157,Camera,electronics,180,Bose,2030-01-01,442.92,79725.5,19,Los Angeles
+LA-001,PROD-0158,Spices,grocery,67,Aldi,2026-01-13 20:06:59.859128,305.01,20435.55,38,Los Angeles
+LA-001,PROD-0159,Bookshelf,furniture,194,Restoration Hardware,2035-12-31,474.99,92148.71,47,Los Angeles
+LA-001,PROD-0160,Coconut Water,beverages,114,Nestlé,2026-10-03 20:06:59.859234,729.52,83165.58,18,Los Angeles
+LA-001,PROD-0161,Energy Drink,beverages,24,Dr Pepper,2026-04-03 20:06:59.859320,659.15,15819.7,33,Los Angeles
+LA-001,PROD-0162,Soda,beverages,45,Pepsi,2027-02-02 20:06:59.859404,979.91,44095.74,42,Los Angeles
+LA-001,PROD-0163,Cabinet,furniture,180,Room & Board,2035-12-31,526.94,94849.64,15,Los Angeles
+LA-001,PROD-0164,Hoodie,clothing,118,Adidas,2028-06-30,366.94,43299.05,25,Los Angeles
+LA-001,PROD-0165,Shorts,clothing,124,Zara,2028-06-30,160.99,19962.59,27,Los Angeles
+LA-001,PROD-0166,Television,electronics,43,Microsoft,2030-01-01,443.57,19073.32,11,Los Angeles
+LA-001,PROD-0167,Tea,beverages,51,Gatorade,2027-04-01 20:06:59.859611,66.09,3370.56,44,Los Angeles
+LA-001,PROD-0168,Headphones,electronics,126,HP,2030-01-01,245.92,30985.8,36,Los Angeles
+LA-001,PROD-0169,Lemonade,beverages,142,Red Bull,2025-09-16 20:06:59.859721,799.27,113495.67,18,Los Angeles
+LA-001,PROD-0170,Sofa,furniture,138,Crate & Barrel,2035-12-31,982.14,135535.89,33,Los Angeles
+LA-001,PROD-0171,Nightstand,furniture,43,Room & Board,2035-12-31,212.92,9155.35,28,Los Angeles
+LA-001,PROD-0172,Smartwatch,electronics,36,Huawei,2030-01-01,61.2,2203.07,41,Los Angeles
+LA-001,PROD-0173,Vegetables,grocery,143,Kroger,2027-02-23 20:06:59.859961,313.25,44794.86,46,Los Angeles
+LA-001,PROD-0174,Sneakers,clothing,114,Puma,2028-06-30,55.15,6287.43,38,Los Angeles
+LA-001,PROD-0175,Cereal,grocery,105,Costco,2026-08-07 20:06:59.860220,782.47,82159.35,31,Los Angeles
+LA-001,PROD-0176,Bed,furniture,53,IKEA,2035-12-31,409.97,21728.62,48,Los Angeles
+LA-001,PROD-0177,Noodles,grocery,165,Walmart,2026-02-06 20:06:59.860385,936.98,154602.4,18,Los Angeles
+LA-001,PROD-0178,Table,furniture,185,IKEA,2035-12-31,410.24,75894.72,10,Los Angeles
+LA-001,PROD-0179,Water,beverages,143,Dr Pepper,2025-11-18 20:06:59.860555,519.2,74244.97,26,Los Angeles
+LA-001,PROD-0180,Milk,beverages,148,Coca-Cola,2025-07-04 20:06:59.860772,547.32,81003.48,46,Los Angeles
+LA-001,PROD-0181,Rice,grocery,32,Kroger,2026-04-21 20:06:59.860856,353.39,11308.42,46,Los Angeles
+LA-001,PROD-0182,Scarf,clothing,16,Puma,2028-06-30,288.04,4608.68,43,Los Angeles
+LA-001,PROD-0183,Coffee,beverages,78,Coca-Cola,2026-02-07 20:06:59.860980,231.07,18023.8,18,Los Angeles
+LA-001,PROD-0184,Bread,grocery,87,Safeway,2025-11-06 20:06:59.861157,397.33,34567.87,15,Los Angeles
+LA-001,PROD-0185,Canned Beans,grocery,95,Aldi,2026-03-23 20:06:59.861245,78.71,7477.86,36,Los Angeles
+LA-001,PROD-0186,Smart Speaker,electronics,123,Samsung,2030-01-01,720.74,88650.93,22,Los Angeles
+LA-001,PROD-0187,Desk,furniture,57,Room & Board,2035-12-31,315.69,17994.54,35,Los Angeles
+LA-001,PROD-0188,Jeans,clothing,139,Under Armour,2028-06-30,451.85,62807.18,23,Los Angeles
+LA-001,PROD-0189,Pasta,grocery,123,Costco,2025-06-06 20:06:59.861516,721.27,88715.86,45,Los Angeles
+LA-001,PROD-0190,Fruits,grocery,69,Costco,2027-03-07 20:06:59.861599,31.92,2202.5,23,Los Angeles
+LA-001,PROD-0191,Armchair,furniture,124,Ashley,2035-12-31,137.6,17061.88,49,Los Angeles
+LA-001,PROD-0192,Chair,furniture,135,Restoration Hardware,2035-12-31,37.33,5039.29,13,Los Angeles
+LA-001,PROD-0193,Suit,clothing,64,Under Armour,2028-06-30,203.1,12998.16,27,Los Angeles
+LA-001,PROD-0194,Laptop,electronics,114,Huawei,2030-01-01,535.47,61043.93,10,Los Angeles
+LA-001,PROD-0195,Dining Table,furniture,122,Steelcase,2035-12-31,415.74,50719.79,33,Los Angeles
+LA-001,PROD-0196,Iced Tea,beverages,41,Red Bull,2025-06-16 20:06:59.862448,584.63,23969.84,19,Los Angeles
+LA-001,PROD-0197,Dress,clothing,193,Adidas,2028-06-30,698.31,134774.72,15,Los Angeles
+LA-001,PROD-0198,Jacket,clothing,18,Puma,2028-06-30,836.63,15059.26,20,Los Angeles
+LA-001,PROD-0199,Sweater,clothing,116,Adidas,2028-06-30,384.48,44600.08,49,Los Angeles
+LA-001,PROD-0200,T-Shirt,clothing,162,Puma,2028-06-30,393.55,63755.86,26,Los Angeles
+LA-002,PROD-0201,Shorts,clothing,46,Puma,2028-06-30,295.43,13589.77,48,Los Angeles
+LA-002,PROD-0202,Yogurt,grocery,27,Publix,2026-11-11 20:06:59.864594,182.76,4934.53,43,Los Angeles
+LA-002,PROD-0203,Smartwatch,electronics,198,Microsoft,2030-01-01,935.06,185142.59,34,Los Angeles
+LA-002,PROD-0204,Chair,furniture,145,La-Z-Boy,2035-12-31,613.23,88918.9,42,Los Angeles
+LA-002,PROD-0205,Noodles,grocery,75,Aldi,2027-03-09 20:06:59.864740,721.7,54127.84,30,Los Angeles
+LA-002,PROD-0206,Lemonade,beverages,148,Fanta,2026-02-22 20:06:59.864825,984.4,145691.42,27,Los Angeles
+LA-002,PROD-0207,Cabinet,furniture,126,Pottery Barn,2035-12-31,31.62,3984.47,27,Los Angeles
+LA-002,PROD-0208,Pasta,grocery,172,Aldi,2026-11-24 20:06:59.864930,386.06,66402.62,17,Los Angeles
+LA-002,PROD-0209,Table,furniture,149,Crate & Barrel,2035-12-31,479.98,71516.75,44,Los Angeles
+LA-002,PROD-0210,Coconut Water,beverages,174,Monster,2026-04-28 20:06:59.865035,921.78,160390.18,26,Los Angeles
+LA-002,PROD-0211,Iced Tea,beverages,153,Sprite,2025-08-10 20:06:59.865117,671.04,102669.4,27,Los Angeles
+LA-002,PROD-0212,Sweater,clothing,108,Uniqlo,2028-06-30,604.37,65272.25,24,Los Angeles
+LA-002,PROD-0213,Coffee,beverages,97,Dr Pepper,2027-01-04 20:06:59.865226,717.3,69577.71,40,Los Angeles
+LA-002,PROD-0214,Bed,furniture,185,Wayfair,2035-12-31,179.19,33150.45,10,Los Angeles
+LA-002,PROD-0215,Portable Charger,electronics,70,Samsung,2030-01-01,218.88,15321.63,47,Los Angeles
+LA-002,PROD-0216,Hoodie,clothing,177,Uniqlo,2028-06-30,767.7,135882.35,29,Los Angeles
+LA-002,PROD-0217,Bookshelf,furniture,70,Steelcase,2035-12-31,478.93,33525.37,37,Los Angeles
+LA-002,PROD-0218,Jeans,clothing,23,H&M,2028-06-30,272.94,6277.68,38,Los Angeles
+LA-002,PROD-0219,Desk,furniture,89,Crate & Barrel,2035-12-31,922.77,82126.85,21,Los Angeles
+LA-002,PROD-0220,Cereal,grocery,161,Safeway,2027-03-25 20:06:59.865474,88.48,14245.85,45,Los Angeles
+LA-002,PROD-0221,T-Shirt,clothing,132,Reebok,2028-06-30,486.78,64255.27,18,Los Angeles
+LA-002,PROD-0222,Game Console,electronics,165,Microsoft,2030-01-01,746.12,123109.42,32,Los Angeles
+LA-002,PROD-0223,Nightstand,furniture,149,Pottery Barn,2035-12-31,711.02,105942.71,39,Los Angeles
+LA-002,PROD-0224,Headphones,electronics,35,Samsung,2030-01-01,643.44,22520.49,17,Los Angeles
+LA-002,PROD-0225,Sneakers,clothing,35,Puma,2028-06-30,336.64,11782.46,41,Los Angeles
+LA-002,PROD-0226,Juice,beverages,163,Gatorade,2026-08-28 20:06:59.865789,788.63,128546.34,20,Los Angeles
+LA-002,PROD-0227,Bread,grocery,160,Costco,2026-01-21 20:06:59.865897,834.01,133442.11,17,Los Angeles
+LA-002,PROD-0228,Fruits,grocery,24,Aldi,2025-12-11 20:06:59.866007,418.39,10041.47,24,Los Angeles
+LA-002,PROD-0229,Suit,clothing,65,Under Armour,2028-06-30,386.04,25092.52,11,Los Angeles
+LA-002,PROD-0230,Television,electronics,168,Sony,2030-01-01,859.9,144462.76,24,Los Angeles
+LA-002,PROD-0231,Milk,beverages,195,Red Bull,2025-11-13 20:06:59.866227,945.83,184435.91,12,Los Angeles
+LA-002,PROD-0232,Scarf,clothing,174,Uniqlo,2028-06-30,845.87,147181.56,36,Los Angeles
+LA-002,PROD-0233,Tablet,electronics,126,Sony,2030-01-01,490.33,61781.71,48,Los Angeles
+LA-002,PROD-0234,Dining Table,furniture,52,Pottery Barn,2035-12-31,507.83,26407.11,39,Los Angeles
+LA-002,PROD-0235,Rice,grocery,113,Aldi,2025-08-05 20:06:59.866640,110.25,12458.69,36,Los Angeles
+LA-002,PROD-0236,Dress,clothing,79,Adidas,2028-06-30,550.18,43463.84,43,Los Angeles
+LA-002,PROD-0237,Spices,grocery,88,Kroger,2025-11-03 20:06:59.866818,701.78,61756.87,16,Los Angeles
+LA-002,PROD-0238,Canned Beans,grocery,182,Whole Foods,2026-05-14 20:06:59.866903,13.9,2530.01,41,Los Angeles
+LA-002,PROD-0239,Soda,beverages,89,Pepsi,2027-03-15 20:06:59.866987,937.37,83425.54,38,Los Angeles
+LA-002,PROD-0240,Sofa,furniture,113,Restoration Hardware,2035-12-31,747.42,84457.92,43,Los Angeles
+LA-002,PROD-0241,Tea,beverages,88,Lipton,2025-09-30 20:06:59.867215,301.87,26564.48,49,Los Angeles
+LA-002,PROD-0242,Water,beverages,56,Gatorade,2026-04-30 20:06:59.867360,591.39,33117.58,12,Los Angeles
+LA-002,PROD-0243,Energy Drink,beverages,29,Red Bull,2026-09-19 20:06:59.867574,867.66,25162.04,36,Los Angeles
+LA-002,PROD-0244,Armchair,furniture,75,West Elm,2035-12-31,334.72,25104.12,11,Los Angeles
+LA-002,PROD-0245,Camera,electronics,102,LG,2030-01-01,169.44,17283.13,10,Los Angeles
+LA-002,PROD-0246,Jacket,clothing,196,H&M,2028-06-30,763.35,149617.39,15,Los Angeles
+LA-002,PROD-0247,Vegetables,grocery,189,Kroger,2025-08-10 20:06:59.868581,812.61,153582.62,40,Los Angeles
+LA-002,PROD-0248,Laptop,electronics,96,Sony,2030-01-01,151.21,14516.39,40,Los Angeles
+LA-002,PROD-0249,Smartphone,electronics,174,Apple,2030-01-01,361.78,62949.04,41,Los Angeles
+LA-002,PROD-0250,Smart Speaker,electronics,199,Panasonic,2030-01-01,266.11,52955.57,30,Los Angeles
+LA-003,PROD-0251,Bookshelf,furniture,25,West Elm,2035-12-31,105.93,2648.32,24,Los Angeles
+LA-003,PROD-0252,Television,electronics,196,Bose,2030-01-01,369.29,72380.46,15,Los Angeles
+LA-003,PROD-0253,Camera,electronics,98,HP,2030-01-01,937.96,91919.78,43,Los Angeles
+LA-003,PROD-0254,Pasta,grocery,54,Aldi,2026-04-08 20:06:59.871191,342.01,18468.39,21,Los Angeles
+LA-003,PROD-0255,Rice,grocery,75,Whole Foods,2027-01-22 20:06:59.871283,867.16,65036.68,17,Los Angeles
+LA-003,PROD-0256,Dining Table,furniture,173,West Elm,2035-12-31,568.5,98351.22,27,Los Angeles
+LA-003,PROD-0257,Sweater,clothing,37,Nike,2028-06-30,704.36,26061.35,16,Los Angeles
+LA-003,PROD-0258,Sofa,furniture,158,IKEA,2035-12-31,750.64,118600.54,28,Los Angeles
+LA-003,PROD-0259,Hoodie,clothing,178,Puma,2028-06-30,544.11,96851.49,19,Los Angeles
+LA-003,PROD-0260,Cereal,grocery,97,Target,2026-08-09 20:06:59.871485,841.14,81590.59,20,Los Angeles
+LA-003,PROD-0261,T-Shirt,clothing,94,Levi's,2028-06-30,115.75,10880.38,36,Los Angeles
+LA-003,PROD-0262,Dress,clothing,87,Uniqlo,2028-06-30,106.25,9243.73,43,Los Angeles
+LA-003,PROD-0263,Laptop,electronics,109,Microsoft,2030-01-01,718.84,78353.42,12,Los Angeles
+LA-003,PROD-0264,Cabinet,furniture,167,Room & Board,2035-12-31,625.57,104469.45,40,Los Angeles
+LA-003,PROD-0265,Coconut Water,beverages,97,Gatorade,2026-01-03 20:06:59.871685,627.61,60877.77,27,Los Angeles
+LA-003,PROD-0266,Soda,beverages,26,Red Bull,2026-03-19 20:06:59.871783,459.91,11957.56,10,Los Angeles
+LA-003,PROD-0267,Juice,beverages,107,Red Bull,2026-12-19 20:06:59.871857,921.0,98547.53,26,Los Angeles
+LA-003,PROD-0268,Canned Beans,grocery,148,Target,2026-09-25 20:06:59.871952,845.03,125063.72,17,Los Angeles
+LA-003,PROD-0269,Noodles,grocery,177,Kroger,2027-01-19 20:06:59.872030,850.07,150463.02,29,Los Angeles
+LA-003,PROD-0270,Jeans,clothing,53,Levi's,2028-06-30,779.17,41295.97,31,Los Angeles
+LA-003,PROD-0271,Vegetables,grocery,67,Aldi,2026-09-23 20:06:59.872137,25.96,1739.6,26,Los Angeles
+LA-003,PROD-0272,Smartwatch,electronics,100,Dell,2030-01-01,73.08,7308.1,46,Los Angeles
+LA-003,PROD-0273,Portable Charger,electronics,107,Microsoft,2030-01-01,87.74,9387.92,40,Los Angeles
+LA-003,PROD-0274,Armchair,furniture,87,West Elm,2035-12-31,477.77,41566.4,26,Los Angeles
+LA-003,PROD-0275,Smartphone,electronics,104,Dell,2030-01-01,201.56,20962.07,23,Los Angeles
+LA-003,PROD-0276,Fruits,grocery,17,Publix,2025-12-02 20:06:59.872433,880.36,14966.05,38,Los Angeles
+LA-003,PROD-0277,Game Console,electronics,26,LG,2030-01-01,915.76,23809.69,34,Los Angeles
+LA-003,PROD-0278,Desk,furniture,175,West Elm,2035-12-31,277.18,48507.3,20,Los Angeles
+LA-003,PROD-0279,Bread,grocery,161,Whole Foods,2026-09-16 20:06:59.872585,563.22,90679.12,22,Los Angeles
+LA-003,PROD-0280,Milk,beverages,175,Dr Pepper,2025-08-19 20:06:59.872663,401.94,70338.85,20,Los Angeles
+LA-003,PROD-0281,Chair,furniture,128,IKEA,2035-12-31,693.19,88728.88,19,Los Angeles
+LA-003,PROD-0282,Spices,grocery,99,Target,2026-07-29 20:06:59.872902,321.95,31873.14,13,Los Angeles
+LA-003,PROD-0283,Tablet,electronics,147,Bose,2030-01-01,653.61,96080.66,15,Los Angeles
+LA-003,PROD-0284,Suit,clothing,160,Puma,2028-06-30,814.48,130316.12,12,Los Angeles
+LA-003,PROD-0285,Water,beverages,36,Fanta,2026-11-26 20:06:59.873136,982.73,35378.19,20,Los Angeles
+LA-003,PROD-0286,Nightstand,furniture,193,IKEA,2035-12-31,874.75,168826.46,25,Los Angeles
+LA-003,PROD-0287,Coffee,beverages,144,Coca-Cola,2026-12-22 20:06:59.873396,722.09,103980.28,45,Los Angeles
+LA-003,PROD-0288,Scarf,clothing,131,Gap,2028-06-30,152.09,19923.43,43,Los Angeles
+LA-003,PROD-0289,Shorts,clothing,188,Nike,2028-06-30,641.3,120564.19,32,Los Angeles
+LA-003,PROD-0290,Yogurt,grocery,86,Trader Joe's,2025-06-09 20:06:59.873783,252.95,21753.97,17,Los Angeles
+LA-003,PROD-0291,Tea,beverages,19,Red Bull,2026-05-03 20:06:59.873963,771.49,14658.26,46,Los Angeles
+LA-003,PROD-0292,Iced Tea,beverages,159,Dr Pepper,2025-06-01 20:06:59.874247,425.11,67592.21,30,Los Angeles
+LA-003,PROD-0293,Sneakers,clothing,148,Nike,2028-06-30,352.85,52221.37,27,Los Angeles
+LA-003,PROD-0294,Lemonade,beverages,13,Dr Pepper,2026-06-05 20:06:59.874577,795.55,10342.16,49,Los Angeles
+LA-003,PROD-0295,Table,furniture,88,Crate & Barrel,2035-12-31,258.76,22770.87,34,Los Angeles
+LA-003,PROD-0296,Bed,furniture,174,Restoration Hardware,2035-12-31,690.79,120197.77,43,Los Angeles
+LA-003,PROD-0297,Jacket,clothing,76,Puma,2028-06-30,527.95,40124.15,32,Los Angeles
+LA-003,PROD-0298,Smart Speaker,electronics,155,HP,2030-01-01,807.69,125192.26,45,Los Angeles
+LA-003,PROD-0299,Headphones,electronics,147,Samsung,2030-01-01,748.91,110090.05,31,Los Angeles
+LA-003,PROD-0300,Energy Drink,beverages,16,Lipton,2026-12-28 20:06:59.877487,303.28,4852.41,26,Los Angeles
+CHI-001,PROD-0301,Scarf,clothing,142,Zara,2028-06-30,626.03,88896.96,15,Chicago
+CHI-001,PROD-0302,Sweater,clothing,60,Uniqlo,2028-06-30,936.99,56219.63,22,Chicago
+CHI-001,PROD-0303,Coconut Water,beverages,184,Dr Pepper,2025-12-13 20:06:59.877664,628.05,115561.44,11,Chicago
+CHI-001,PROD-0304,Noodles,grocery,122,Trader Joe's,2026-07-30 20:06:59.877745,74.82,9128.21,44,Chicago
+CHI-001,PROD-0305,Bed,furniture,50,Crate & Barrel,2035-12-31,76.77,3838.25,28,Chicago
+CHI-001,PROD-0306,Shorts,clothing,139,Adidas,2028-06-30,475.37,66075.74,21,Chicago
+CHI-001,PROD-0307,Juice,beverages,104,Red Bull,2025-12-08 20:06:59.877915,30.95,3218.81,49,Chicago
+CHI-001,PROD-0308,Canned Beans,grocery,103,Trader Joe's,2026-12-27 20:06:59.877998,640.1,65929.98,31,Chicago
+CHI-001,PROD-0309,Energy Drink,beverages,125,Lipton,2025-11-10 20:06:59.878080,407.49,50935.97,42,Chicago
+CHI-001,PROD-0310,Tea,beverages,128,Sprite,2025-06-29 20:06:59.878214,396.23,50717.99,49,Chicago
+CHI-001,PROD-0311,Bookshelf,furniture,32,Wayfair,2035-12-31,709.26,22696.41,14,Chicago
+CHI-001,PROD-0312,Lemonade,beverages,98,Lipton,2027-02-15 20:06:59.878319,818.22,80185.73,30,Chicago
+CHI-001,PROD-0313,Chair,furniture,183,La-Z-Boy,2035-12-31,377.42,69067.09,39,Chicago
+CHI-001,PROD-0314,Water,beverages,49,Monster,2026-01-23 20:06:59.878473,121.33,5944.96,40,Chicago
+CHI-001,PROD-0315,T-Shirt,clothing,101,Zara,2028-06-30,64.02,6465.97,33,Chicago
+CHI-001,PROD-0316,Hoodie,clothing,141,Nike,2028-06-30,224.32,31628.89,37,Chicago
+CHI-001,PROD-0317,Cabinet,furniture,88,Room & Board,2035-12-31,629.57,55401.9,41,Chicago
+CHI-001,PROD-0318,Dining Table,furniture,120,Wayfair,2035-12-31,615.53,73863.39,12,Chicago
+CHI-001,PROD-0319,Soda,beverages,185,Fanta,2026-12-15 20:06:59.878676,579.78,107260.12,40,Chicago
+CHI-001,PROD-0320,Bread,grocery,102,Aldi,2026-02-20 20:06:59.878797,495.41,50531.8,25,Chicago
+CHI-001,PROD-0321,Camera,electronics,140,Samsung,2030-01-01,384.67,53853.49,44,Chicago
+CHI-001,PROD-0322,Coffee,beverages,152,Fanta,2027-02-26 20:06:59.878904,386.73,58782.59,23,Chicago
+CHI-001,PROD-0323,Laptop,electronics,13,Huawei,2030-01-01,341.77,4443.03,30,Chicago
+CHI-001,PROD-0324,Jacket,clothing,39,Uniqlo,2028-06-30,428.98,16730.35,17,Chicago
+CHI-001,PROD-0325,Vegetables,grocery,177,Walmart,2025-07-23 20:06:59.879050,734.19,129951.13,39,Chicago
+CHI-001,PROD-0326,Yogurt,grocery,84,Trader Joe's,2026-08-05 20:06:59.879223,463.82,38960.74,19,Chicago
+CHI-001,PROD-0327,Smartwatch,electronics,160,Microsoft,2030-01-01,649.55,103927.4,18,Chicago
+CHI-001,PROD-0328,Fruits,grocery,143,Trader Joe's,2027-04-11 20:06:59.879351,686.75,98205.19,43,Chicago
+CHI-001,PROD-0329,Iced Tea,beverages,155,Gatorade,2026-09-21 20:06:59.879440,90.71,14059.98,15,Chicago
+CHI-001,PROD-0330,Game Console,electronics,95,Sony,2030-01-01,508.92,48347.36,22,Chicago
+CHI-001,PROD-0331,Jeans,clothing,101,Zara,2028-06-30,224.67,22691.2,23,Chicago
+CHI-001,PROD-0332,Television,electronics,127,Samsung,2030-01-01,552.79,70204.51,21,Chicago
+CHI-001,PROD-0333,Pasta,grocery,103,Walmart,2026-08-19 20:06:59.879686,348.7,35916.45,36,Chicago
+CHI-001,PROD-0334,Cereal,grocery,135,Safeway,2026-10-16 20:06:59.879792,832.34,112366.02,26,Chicago
+CHI-001,PROD-0335,Milk,beverages,97,Monster,2026-11-23 20:06:59.879895,123.02,11933.11,31,Chicago
+CHI-001,PROD-0336,Nightstand,furniture,199,IKEA,2035-12-31,395.55,78714.34,42,Chicago
+CHI-001,PROD-0337,Headphones,electronics,57,Huawei,2030-01-01,74.05,4220.6,18,Chicago
+CHI-001,PROD-0338,Tablet,electronics,74,HP,2030-01-01,292.74,21662.62,20,Chicago
+CHI-001,PROD-0339,Smart Speaker,electronics,179,Dell,2030-01-01,334.35,59849.15,41,Chicago
+CHI-001,PROD-0340,Smartphone,electronics,143,Apple,2030-01-01,639.82,91494.32,39,Chicago
+CHI-001,PROD-0341,Dress,clothing,120,Uniqlo,2028-06-30,285.28,34233.43,43,Chicago
+CHI-001,PROD-0342,Armchair,furniture,169,Room & Board,2035-12-31,980.86,165765.88,17,Chicago
+CHI-001,PROD-0343,Table,furniture,106,Pottery Barn,2035-12-31,748.52,79343.59,45,Chicago
+CHI-001,PROD-0344,Suit,clothing,162,Puma,2028-06-30,620.53,100526.02,35,Chicago
+CHI-001,PROD-0345,Sneakers,clothing,50,Adidas,2028-06-30,263.72,13185.99,41,Chicago
+CHI-001,PROD-0346,Sofa,furniture,138,Pottery Barn,2035-12-31,66.61,9191.99,27,Chicago
+CHI-001,PROD-0347,Portable Charger,electronics,168,Dell,2030-01-01,742.68,124770.62,49,Chicago
+CHI-001,PROD-0348,Spices,grocery,186,Target,2025-07-12 20:06:59.885187,787.3,146437.33,14,Chicago
+CHI-001,PROD-0349,Rice,grocery,82,Whole Foods,2026-10-03 20:06:59.885476,186.86,15322.28,23,Chicago
+CHI-001,PROD-0350,Desk,furniture,178,West Elm,2035-12-31,776.55,138225.29,35,Chicago
+CHI-002,PROD-0351,Suit,clothing,143,Under Armour,2028-06-30,486.92,69630.0,33,Chicago
+CHI-002,PROD-0352,Spices,grocery,73,Whole Foods,2025-08-12 20:06:59.886038,939.24,68564.54,15,Chicago
+CHI-002,PROD-0353,Sofa,furniture,55,Room & Board,2035-12-31,385.24,21188.14,30,Chicago
+CHI-002,PROD-0354,Water,beverages,64,Dr Pepper,2026-02-09 20:06:59.886139,74.89,4792.94,10,Chicago
+CHI-002,PROD-0355,Jacket,clothing,115,Levi's,2028-06-30,240.99,27714.03,12,Chicago
+CHI-002,PROD-0356,Dining Table,furniture,67,Restoration Hardware,2035-12-31,989.76,66313.79,31,Chicago
+CHI-002,PROD-0357,Smartwatch,electronics,119,LG,2030-01-01,969.23,115338.85,27,Chicago
+CHI-002,PROD-0358,Noodles,grocery,37,Albertsons,2026-07-26 20:06:59.886283,922.49,34132.11,23,Chicago
+CHI-002,PROD-0359,Rice,grocery,100,Aldi,2026-05-31 20:06:59.886357,326.52,32652.3,40,Chicago
+CHI-002,PROD-0360,Nightstand,furniture,103,Restoration Hardware,2035-12-31,58.62,6037.88,26,Chicago
+CHI-002,PROD-0361,Sweater,clothing,60,Zara,2028-06-30,123.03,7381.53,35,Chicago
+CHI-002,PROD-0362,Soda,beverages,190,Nestlé,2026-01-10 20:06:59.886472,874.72,166197.12,35,Chicago
+CHI-002,PROD-0363,Dress,clothing,73,Under Armour,2028-06-30,798.51,58290.89,27,Chicago
+CHI-002,PROD-0364,Energy Drink,beverages,94,Nestlé,2026-05-07 20:06:59.886599,624.61,58713.07,46,Chicago
+CHI-002,PROD-0365,Milk,beverages,181,Fanta,2025-10-17 20:06:59.886672,663.46,120086.85,43,Chicago
+CHI-002,PROD-0366,Jeans,clothing,90,Nike,2028-06-30,893.95,80455.39,44,Chicago
+CHI-002,PROD-0367,Cereal,grocery,104,Aldi,2026-02-13 20:06:59.886763,282.77,29407.97,19,Chicago
+CHI-002,PROD-0368,Shorts,clothing,169,Adidas,2028-06-30,70.5,11914.83,24,Chicago
+CHI-002,PROD-0369,Pasta,grocery,112,Trader Joe's,2026-08-01 20:06:59.886860,146.9,16453.16,18,Chicago
+CHI-002,PROD-0370,Tea,beverages,158,Pepsi,2026-09-06 20:06:59.886937,883.71,139626.83,38,Chicago
+CHI-002,PROD-0371,Camera,electronics,174,Apple,2030-01-01,198.28,34500.88,19,Chicago
+CHI-002,PROD-0372,Bookshelf,furniture,54,La-Z-Boy,2035-12-31,948.04,51194.2,19,Chicago
+CHI-002,PROD-0373,Sneakers,clothing,34,Gap,2028-06-30,724.93,24647.63,12,Chicago
+CHI-002,PROD-0374,Portable Charger,electronics,195,HP,2030-01-01,19.59,3820.86,38,Chicago
+CHI-002,PROD-0375,Vegetables,grocery,73,Target,2025-06-17 20:06:59.887139,702.81,51305.29,25,Chicago
+CHI-002,PROD-0376,Game Console,electronics,198,Apple,2030-01-01,247.37,48979.93,23,Chicago
+CHI-002,PROD-0377,Smart Speaker,electronics,51,Dell,2030-01-01,710.91,36256.28,45,Chicago
+CHI-002,PROD-0378,Cabinet,furniture,89,Restoration Hardware,2035-12-31,644.8,57387.25,11,Chicago
+CHI-002,PROD-0379,Fruits,grocery,174,Target,2025-10-07 20:06:59.887320,674.12,117297.27,49,Chicago
+CHI-002,PROD-0380,Juice,beverages,106,Red Bull,2027-03-01 20:06:59.887424,207.5,21994.84,31,Chicago
+CHI-002,PROD-0381,Coffee,beverages,171,Lipton,2026-03-21 20:06:59.887498,151.55,25914.46,35,Chicago
+CHI-002,PROD-0382,Lemonade,beverages,137,Pepsi,2025-10-28 20:06:59.887568,701.75,96140.18,37,Chicago
+CHI-002,PROD-0383,Television,electronics,191,Bose,2030-01-01,186.51,35624.13,45,Chicago
+CHI-002,PROD-0384,Headphones,electronics,109,HP,2030-01-01,512.08,55816.95,44,Chicago
+CHI-002,PROD-0385,Desk,furniture,78,Wayfair,2035-12-31,758.84,59189.71,10,Chicago
+CHI-002,PROD-0386,Iced Tea,beverages,58,Dr Pepper,2026-02-05 20:06:59.887745,875.56,50782.4,46,Chicago
+CHI-002,PROD-0387,Chair,furniture,32,Restoration Hardware,2035-12-31,44.62,1427.86,20,Chicago
+CHI-002,PROD-0388,Coconut Water,beverages,147,Coca-Cola,2025-08-18 20:06:59.887931,363.93,53498.14,26,Chicago
+CHI-002,PROD-0389,Tablet,electronics,145,Huawei,2030-01-01,136.28,19760.04,18,Chicago
+CHI-002,PROD-0390,Laptop,electronics,172,Huawei,2030-01-01,631.12,108553.1,32,Chicago
+CHI-002,PROD-0391,Table,furniture,103,Restoration Hardware,2035-12-31,665.25,68520.45,36,Chicago
+CHI-002,PROD-0392,Bed,furniture,39,La-Z-Boy,2035-12-31,562.74,21946.9,42,Chicago
+CHI-002,PROD-0393,T-Shirt,clothing,164,Puma,2028-06-30,241.96,39681.6,45,Chicago
+CHI-002,PROD-0394,Smartphone,electronics,113,Panasonic,2030-01-01,949.99,107348.86,24,Chicago
+CHI-002,PROD-0395,Scarf,clothing,151,Zara,2028-06-30,869.57,131305.35,46,Chicago
+CHI-002,PROD-0396,Hoodie,clothing,130,Levi's,2028-06-30,568.49,73903.31,23,Chicago
+CHI-002,PROD-0397,Canned Beans,grocery,89,Aldi,2027-03-09 20:06:59.888824,460.55,40989.01,21,Chicago
+CHI-002,PROD-0398,Bread,grocery,41,Aldi,2026-10-06 20:06:59.888951,685.95,28123.84,45,Chicago
+CHI-002,PROD-0399,Armchair,furniture,97,Crate & Barrel,2035-12-31,745.93,72355.45,21,Chicago
+CHI-002,PROD-0400,Yogurt,grocery,49,Costco,2027-03-19 20:06:59.889575,432.99,21216.57,46,Chicago
+CHI-003,PROD-0401,Tablet,electronics,87,HP,2030-01-01,178.83,15558.62,34,Chicago
+CHI-003,PROD-0402,Smart Speaker,electronics,41,Samsung,2030-01-01,415.37,17030.29,39,Chicago
+CHI-003,PROD-0403,Iced Tea,beverages,47,Pepsi,2025-05-20 20:06:59.889713,52.78,2480.63,17,Chicago
+CHI-003,PROD-0404,Shorts,clothing,95,Under Armour,2028-06-30,497.27,47241.0,37,Chicago
+CHI-003,PROD-0405,Rice,grocery,171,Aldi,2025-08-13 20:06:59.889807,347.38,59402.1,12,Chicago
+CHI-003,PROD-0406,T-Shirt,clothing,105,H&M,2028-06-30,221.69,23277.34,18,Chicago
+CHI-003,PROD-0407,Cereal,grocery,175,Aldi,2026-11-27 20:06:59.889899,565.86,99026.17,23,Chicago
+CHI-003,PROD-0408,Jacket,clothing,132,Under Armour,2028-06-30,71.77,9473.54,25,Chicago
+CHI-003,PROD-0409,Hoodie,clothing,93,Reebok,2028-06-30,122.45,11387.59,36,Chicago
+CHI-003,PROD-0410,Coconut Water,beverages,101,Dr Pepper,2026-09-23 20:06:59.890010,133.65,13498.49,18,Chicago
+CHI-003,PROD-0411,Pasta,grocery,126,Aldi,2027-04-02 20:06:59.890081,786.46,99093.6,32,Chicago
+CHI-003,PROD-0412,Water,beverages,85,Lipton,2025-09-14 20:06:59.890152,988.58,84028.98,30,Chicago
+CHI-003,PROD-0413,Smartwatch,electronics,89,HP,2030-01-01,142.86,12714.43,41,Chicago
+CHI-003,PROD-0414,Armchair,furniture,35,La-Z-Boy,2035-12-31,229.15,8020.17,10,Chicago
+CHI-003,PROD-0415,Coffee,beverages,101,Coca-Cola,2026-01-10 20:06:59.890278,828.66,83694.26,35,Chicago
+CHI-003,PROD-0416,Camera,electronics,46,HP,2030-01-01,338.01,15548.26,35,Chicago
+CHI-003,PROD-0417,Canned Beans,grocery,142,Publix,2026-05-11 20:06:59.890415,521.33,74028.79,17,Chicago
+CHI-003,PROD-0418,Noodles,grocery,106,Aldi,2025-09-22 20:06:59.890484,491.05,52051.82,31,Chicago
+CHI-003,PROD-0419,Sofa,furniture,160,La-Z-Boy,2035-12-31,960.66,153705.7,27,Chicago
+CHI-003,PROD-0420,Juice,beverages,190,Red Bull,2026-09-24 20:06:59.890576,509.05,96719.42,29,Chicago
+CHI-003,PROD-0421,Bed,furniture,36,Steelcase,2035-12-31,256.06,9218.05,45,Chicago
+CHI-003,PROD-0422,Portable Charger,electronics,25,Sony,2030-01-01,359.31,8982.66,39,Chicago
+CHI-003,PROD-0423,Chair,furniture,139,La-Z-Boy,2035-12-31,41.54,5774.55,36,Chicago
+CHI-003,PROD-0424,Dining Table,furniture,111,La-Z-Boy,2035-12-31,490.44,54438.86,41,Chicago
+CHI-003,PROD-0425,Smartphone,electronics,138,Samsung,2030-01-01,817.24,112779.19,44,Chicago
+CHI-003,PROD-0426,Spices,grocery,137,Walmart,2027-03-27 20:06:59.890897,841.25,115250.83,39,Chicago
+CHI-003,PROD-0427,Vegetables,grocery,128,Safeway,2026-08-02 20:06:59.891084,147.81,18919.27,28,Chicago
+CHI-003,PROD-0428,Laptop,electronics,148,Sony,2030-01-01,30.99,4586.45,22,Chicago
+CHI-003,PROD-0429,Desk,furniture,30,Crate & Barrel,2035-12-31,216.49,6494.72,31,Chicago
+CHI-003,PROD-0430,Dress,clothing,168,Nike,2028-06-30,264.18,44381.57,39,Chicago
+CHI-003,PROD-0431,Yogurt,grocery,141,Albertsons,2026-12-16 20:06:59.891311,320.24,45154.26,45,Chicago
+CHI-003,PROD-0432,Suit,clothing,100,Gap,2028-06-30,350.94,35094.21,46,Chicago
+CHI-003,PROD-0433,Energy Drink,beverages,129,Gatorade,2026-09-15 20:06:59.891436,430.06,55478.26,19,Chicago
+CHI-003,PROD-0434,Soda,beverages,180,Fanta,2027-02-21 20:06:59.891511,591.19,106415.03,39,Chicago
+CHI-003,PROD-0435,Nightstand,furniture,91,Ashley,2035-12-31,118.99,10828.11,37,Chicago
+CHI-003,PROD-0436,Jeans,clothing,45,Reebok,2028-06-30,986.53,44393.81,12,Chicago
+CHI-003,PROD-0437,Table,furniture,151,Ashley,2035-12-31,124.12,18741.97,45,Chicago
+CHI-003,PROD-0438,Television,electronics,145,Microsoft,2030-01-01,29.38,4259.98,23,Chicago
+CHI-003,PROD-0439,Lemonade,beverages,111,Fanta,2027-03-11 20:06:59.891845,438.39,48661.24,46,Chicago
+CHI-003,PROD-0440,Bread,grocery,93,Walmart,2026-04-19 20:06:59.891956,804.87,74852.7,36,Chicago
+CHI-003,PROD-0441,Cabinet,furniture,158,Room & Board,2035-12-31,800.89,126541.29,19,Chicago
+CHI-003,PROD-0442,Sweater,clothing,105,Gap,2028-06-30,181.43,19050.66,30,Chicago
+CHI-003,PROD-0443,Sneakers,clothing,48,Levi's,2028-06-30,506.46,24310.17,34,Chicago
+CHI-003,PROD-0444,Headphones,electronics,96,HP,2030-01-01,826.32,79326.68,11,Chicago
+CHI-003,PROD-0445,Scarf,clothing,108,Under Armour,2028-06-30,744.34,80388.84,16,Chicago
+CHI-003,PROD-0446,Game Console,electronics,188,HP,2030-01-01,641.3,120565.04,13,Chicago
+CHI-003,PROD-0447,Bookshelf,furniture,98,Ashley,2035-12-31,436.71,42797.74,34,Chicago
+CHI-003,PROD-0448,Milk,beverages,150,Sprite,2026-04-17 20:06:59.893323,272.45,40866.81,39,Chicago
+CHI-003,PROD-0449,Fruits,grocery,84,Albertsons,2026-05-13 20:06:59.893622,996.37,83695.02,40,Chicago
+CHI-003,PROD-0450,Tea,beverages,25,Monster,2026-06-06 20:06:59.894932,193.35,4833.84,23,Chicago
+HOU-001,PROD-0451,Table,furniture,169,Steelcase,2035-12-31,921.63,155754.97,27,Houston
+HOU-001,PROD-0452,Desk,furniture,199,Pottery Barn,2035-12-31,640.97,127552.88,21,Houston
+HOU-001,PROD-0453,Water,beverages,129,Dr Pepper,2026-11-09 20:06:59.895053,518.5,66886.06,25,Houston
+HOU-001,PROD-0454,Tablet,electronics,11,Microsoft,2030-01-01,773.33,8506.58,47,Houston
+HOU-001,PROD-0455,Noodles,grocery,115,Albertsons,2025-07-07 20:06:59.895150,777.65,89429.31,38,Houston
+HOU-001,PROD-0456,Energy Drink,beverages,37,Sprite,2026-05-01 20:06:59.895223,334.61,12380.61,20,Houston
+HOU-001,PROD-0457,Sneakers,clothing,89,H&M,2028-06-30,382.96,34083.06,33,Houston
+HOU-001,PROD-0458,Scarf,clothing,109,Under Armour,2028-06-30,769.56,83881.84,48,Houston
+HOU-001,PROD-0459,Cereal,grocery,198,Target,2026-10-02 20:06:59.895351,900.83,178363.59,27,Houston
+HOU-001,PROD-0460,Jeans,clothing,134,H&M,2028-06-30,466.07,62453.36,15,Houston
+HOU-001,PROD-0461,Dress,clothing,133,Puma,2028-06-30,489.87,65152.28,30,Houston
+HOU-001,PROD-0462,Lemonade,beverages,161,Lipton,2027-02-14 20:06:59.895465,518.77,83521.29,42,Houston
+HOU-001,PROD-0463,Jacket,clothing,139,Adidas,2028-06-30,400.22,55631.17,16,Houston
+HOU-001,PROD-0464,Suit,clothing,174,Adidas,2028-06-30,27.94,4860.72,40,Houston
+HOU-001,PROD-0465,Game Console,electronics,72,HP,2030-01-01,943.15,67907.12,47,Houston
+HOU-001,PROD-0466,Spices,grocery,186,Kroger,2025-07-30 20:06:59.895648,49.68,9240.95,33,Houston
+HOU-001,PROD-0467,Laptop,electronics,91,LG,2030-01-01,446.42,40624.39,17,Houston
+HOU-001,PROD-0468,Coconut Water,beverages,19,Monster,2027-02-08 20:06:59.895819,35.83,680.7,46,Houston
+HOU-001,PROD-0469,Bed,furniture,129,Wayfair,2035-12-31,856.9,110540.68,17,Houston
+HOU-001,PROD-0470,Smartphone,electronics,165,HP,2030-01-01,384.71,63477.48,45,Houston
+HOU-001,PROD-0471,Cabinet,furniture,15,Restoration Hardware,2035-12-31,543.86,8157.84,23,Houston
+HOU-001,PROD-0472,Yogurt,grocery,196,Aldi,2025-08-21 20:06:59.895973,76.26,14946.24,35,Houston
+HOU-001,PROD-0473,Headphones,electronics,141,Apple,2030-01-01,519.75,73284.41,11,Houston
+HOU-001,PROD-0474,Coffee,beverages,107,Coca-Cola,2026-12-20 20:06:59.896687,38.07,4072.96,14,Houston
+HOU-001,PROD-0475,Bookshelf,furniture,29,West Elm,2035-12-31,809.59,23477.97,16,Houston
+HOU-001,PROD-0476,Portable Charger,electronics,43,Apple,2030-01-01,358.01,15394.37,24,Houston
+HOU-001,PROD-0477,Tea,beverages,180,Monster,2026-07-24 20:06:59.896840,707.93,127427.62,10,Houston
+HOU-001,PROD-0478,Dining Table,furniture,176,Crate & Barrel,2035-12-31,702.87,123704.86,21,Houston
+HOU-001,PROD-0479,Rice,grocery,134,Costco,2025-05-14 20:06:59.896977,622.92,83471.66,20,Houston
+HOU-001,PROD-0480,Sweater,clothing,98,Reebok,2028-06-30,99.29,9730.22,48,Houston
+HOU-001,PROD-0481,Soda,beverages,124,Nestlé,2025-07-24 20:06:59.897122,199.79,24773.73,16,Houston
+HOU-001,PROD-0482,Bread,grocery,150,Publix,2026-09-06 20:06:59.897245,414.07,62110.15,41,Houston
+HOU-001,PROD-0483,Fruits,grocery,30,Safeway,2025-11-05 20:06:59.897372,388.58,11657.32,15,Houston
+HOU-001,PROD-0484,Smartwatch,electronics,182,Dell,2030-01-01,896.9,163236.53,14,Houston
+HOU-001,PROD-0485,Hoodie,clothing,167,Gap,2028-06-30,143.28,23928.18,44,Houston
+HOU-001,PROD-0486,Smart Speaker,electronics,58,Dell,2030-01-01,796.94,46222.79,48,Houston
+HOU-001,PROD-0487,Canned Beans,grocery,153,Aldi,2027-04-04 20:06:59.897613,982.92,150387.02,27,Houston
+HOU-001,PROD-0488,Milk,beverages,21,Coca-Cola,2026-02-08 20:06:59.897782,302.94,6361.8,38,Houston
+HOU-001,PROD-0489,Nightstand,furniture,17,Restoration Hardware,2035-12-31,288.01,4896.15,33,Houston
+HOU-001,PROD-0490,Camera,electronics,98,HP,2030-01-01,569.01,55762.75,35,Houston
+HOU-001,PROD-0491,Television,electronics,119,HP,2030-01-01,262.22,31203.85,32,Houston
+HOU-001,PROD-0492,Pasta,grocery,16,Aldi,2025-05-26 20:06:59.898414,12.75,204.02,33,Houston
+HOU-001,PROD-0493,T-Shirt,clothing,69,H&M,2028-06-30,824.26,56873.89,48,Houston
+HOU-001,PROD-0494,Juice,beverages,184,Coca-Cola,2025-11-08 20:06:59.898711,982.82,180838.49,22,Houston
+HOU-001,PROD-0495,Shorts,clothing,15,Uniqlo,2028-06-30,271.32,4069.78,44,Houston
+HOU-001,PROD-0496,Armchair,furniture,160,Wayfair,2035-12-31,38.19,6110.34,18,Houston
+HOU-001,PROD-0497,Sofa,furniture,43,Restoration Hardware,2035-12-31,406.91,17497.22,12,Houston
+HOU-001,PROD-0498,Iced Tea,beverages,79,Fanta,2025-08-17 20:06:59.899480,200.29,15822.83,40,Houston
+HOU-001,PROD-0499,Chair,furniture,145,West Elm,2035-12-31,663.91,96267.03,14,Houston
+HOU-001,PROD-0500,Vegetables,grocery,62,Target,2026-03-15 20:06:59.899821,613.0,38006.28,46,Houston
+HOU-002,PROD-0501,Suit,clothing,140,Zara,2028-06-30,922.34,129128.11,13,Houston
+HOU-002,PROD-0502,Hoodie,clothing,47,Adidas,2028-06-30,862.55,40539.95,44,Houston
+HOU-002,PROD-0503,Sneakers,clothing,147,Uniqlo,2028-06-30,293.05,43078.95,10,Houston
+HOU-002,PROD-0504,Pasta,grocery,99,Aldi,2025-07-25 20:06:59.899960,445.25,44079.28,13,Houston
+HOU-002,PROD-0505,Portable Charger,electronics,145,Panasonic,2030-01-01,31.08,4505.99,19,Houston
+HOU-002,PROD-0506,Water,beverages,24,Pepsi,2026-11-15 20:06:59.900071,191.88,4605.15,18,Houston
+HOU-002,PROD-0507,Noodles,grocery,92,Albertsons,2027-01-24 20:06:59.900154,933.89,85917.79,21,Houston
+HOU-002,PROD-0508,T-Shirt,clothing,65,Under Armour,2028-06-30,908.43,59048.27,49,Houston
+HOU-002,PROD-0509,Sofa,furniture,75,West Elm,2035-12-31,406.22,30466.4,37,Houston
+HOU-002,PROD-0510,Headphones,electronics,153,Microsoft,2030-01-01,844.69,129237.99,37,Houston
+HOU-002,PROD-0511,Camera,electronics,120,Dell,2030-01-01,863.38,103605.35,47,Houston
+HOU-002,PROD-0512,Sweater,clothing,90,Zara,2028-06-30,616.68,55501.24,27,Houston
+HOU-002,PROD-0513,Laptop,electronics,100,Bose,2030-01-01,523.1,52310.27,44,Houston
+HOU-002,PROD-0514,Coffee,beverages,186,Dr Pepper,2026-12-23 20:06:59.900358,265.67,49414.99,27,Houston
+HOU-002,PROD-0515,Rice,grocery,123,Walmart,2026-03-21 20:06:59.900436,977.35,120214.04,33,Houston
+HOU-002,PROD-0516,Spices,grocery,126,Safeway,2026-01-06 20:06:59.900524,175.09,22060.83,28,Houston
+HOU-002,PROD-0517,Jeans,clothing,62,Puma,2028-06-30,829.61,51435.57,13,Houston
+HOU-002,PROD-0518,Desk,furniture,74,Room & Board,2035-12-31,731.95,54164.44,15,Houston
+HOU-002,PROD-0519,Vegetables,grocery,179,Trader Joe's,2026-11-14 20:06:59.900646,502.51,89948.69,12,Houston
+HOU-002,PROD-0520,Scarf,clothing,90,Nike,2028-06-30,343.03,30872.42,34,Houston
+HOU-002,PROD-0521,Lemonade,beverages,176,Fanta,2026-07-24 20:06:59.900757,215.98,38013.18,40,Houston
+HOU-002,PROD-0522,Tablet,electronics,19,Dell,2030-01-01,662.11,12580.12,15,Houston
+HOU-002,PROD-0523,Iced Tea,beverages,182,Monster,2025-07-23 20:06:59.900883,704.28,128179.79,28,Houston
+HOU-002,PROD-0524,Dining Table,furniture,26,Steelcase,2035-12-31,42.17,1096.43,18,Houston
+HOU-002,PROD-0525,Television,electronics,72,LG,2030-01-01,738.74,53189.48,21,Houston
+HOU-002,PROD-0526,Bed,furniture,20,Room & Board,2035-12-31,885.79,17715.79,27,Houston
+HOU-002,PROD-0527,Armchair,furniture,50,Pottery Barn,2035-12-31,976.96,48847.8,31,Houston
+HOU-002,PROD-0528,Game Console,electronics,81,LG,2030-01-01,815.84,66082.71,40,Houston
+HOU-002,PROD-0529,Table,furniture,120,Steelcase,2035-12-31,629.23,75507.3,18,Houston
+HOU-002,PROD-0530,Canned Beans,grocery,129,Kroger,2026-02-28 20:06:59.901153,528.01,68112.71,25,Houston
+HOU-002,PROD-0531,Smart Speaker,electronics,107,Apple,2030-01-01,760.49,81372.57,24,Houston
+HOU-002,PROD-0532,Coconut Water,beverages,15,Nestlé,2027-03-21 20:06:59.901279,340.61,5109.15,45,Houston
+HOU-002,PROD-0533,Fruits,grocery,185,Trader Joe's,2026-12-30 20:06:59.901369,136.86,25319.52,37,Houston
+HOU-002,PROD-0534,Milk,beverages,118,Red Bull,2026-11-28 20:06:59.901441,677.02,79887.82,25,Houston
+HOU-002,PROD-0535,Yogurt,grocery,188,Trader Joe's,2025-06-29 20:06:59.901510,699.89,131579.8,42,Houston
+HOU-002,PROD-0536,Cereal,grocery,62,Target,2025-10-15 20:06:59.901720,536.73,33277.31,28,Houston
+HOU-002,PROD-0537,Nightstand,furniture,50,IKEA,2035-12-31,146.32,7316.1,11,Houston
+HOU-002,PROD-0538,Energy Drink,beverages,50,Gatorade,2026-10-26 20:06:59.901910,99.05,4952.35,38,Houston
+HOU-002,PROD-0539,Smartwatch,electronics,17,LG,2030-01-01,895.91,15230.55,43,Houston
+HOU-002,PROD-0540,Tea,beverages,156,Lipton,2025-10-21 20:06:59.902377,760.64,118660.33,48,Houston
+HOU-002,PROD-0541,Smartphone,electronics,167,Bose,2030-01-01,796.98,133095.74,22,Houston
+HOU-002,PROD-0542,Juice,beverages,118,Nestlé,2026-12-26 20:06:59.902517,596.44,70379.55,44,Houston
+HOU-002,PROD-0543,Shorts,clothing,190,H&M,2028-06-30,268.53,51021.19,11,Houston
+HOU-002,PROD-0544,Dress,clothing,55,Zara,2028-06-30,617.71,33974.0,16,Houston
+HOU-002,PROD-0545,Jacket,clothing,78,Under Armour,2028-06-30,859.08,67008.46,36,Houston
+HOU-002,PROD-0546,Bread,grocery,194,Safeway,2025-06-01 20:06:59.902753,816.48,158397.91,29,Houston
+HOU-002,PROD-0547,Chair,furniture,73,Pottery Barn,2035-12-31,446.04,32561.14,17,Houston
+HOU-002,PROD-0548,Soda,beverages,77,Lipton,2026-06-21 20:06:59.903116,831.5,64025.49,10,Houston
+HOU-002,PROD-0549,Cabinet,furniture,178,Pottery Barn,2035-12-31,487.92,86849.01,38,Houston
+HOU-002,PROD-0550,Bookshelf,furniture,96,Wayfair,2035-12-31,783.12,75179.14,45,Houston
+HOU-003,PROD-0551,Camera,electronics,26,Dell,2030-01-01,275.56,7164.5,48,Houston
+HOU-003,PROD-0552,Suit,clothing,135,Puma,2028-06-30,248.15,33500.69,47,Houston
+HOU-003,PROD-0553,Bread,grocery,132,Albertsons,2025-11-08 20:06:59.904712,141.79,18716.94,10,Houston
+HOU-003,PROD-0554,Scarf,clothing,160,Zara,2028-06-30,495.42,79267.57,24,Houston
+HOU-003,PROD-0555,Smartphone,electronics,172,LG,2030-01-01,40.07,6892.36,13,Houston
+HOU-003,PROD-0556,Energy Drink,beverages,134,Gatorade,2025-08-31 20:06:59.904833,281.69,37746.06,41,Houston
+HOU-003,PROD-0557,Smart Speaker,electronics,174,Microsoft,2030-01-01,787.15,136963.61,21,Houston
+HOU-003,PROD-0558,Lemonade,beverages,38,Pepsi,2025-12-23 20:06:59.904930,608.39,23118.85,47,Houston
+HOU-003,PROD-0559,Television,electronics,78,Apple,2030-01-01,36.67,2860.63,28,Houston
+HOU-003,PROD-0560,Soda,beverages,193,Nestlé,2025-07-06 20:06:59.905025,991.3,191321.32,47,Houston
+HOU-003,PROD-0561,Cabinet,furniture,135,Room & Board,2035-12-31,971.92,131209.78,19,Houston
+HOU-003,PROD-0562,Shorts,clothing,55,Uniqlo,2028-06-30,907.73,49925.41,12,Houston
+HOU-003,PROD-0563,Noodles,grocery,146,Safeway,2025-06-17 20:06:59.905136,95.97,14011.45,47,Houston
+HOU-003,PROD-0564,Headphones,electronics,166,HP,2030-01-01,594.08,98616.99,17,Houston
+HOU-003,PROD-0565,Water,beverages,10,Fanta,2027-03-21 20:06:59.905246,394.09,3940.87,27,Houston
+HOU-003,PROD-0566,Bed,furniture,113,Crate & Barrel,2035-12-31,887.8,100321.81,28,Houston
+HOU-003,PROD-0567,Sweater,clothing,43,Gap,2028-06-30,444.94,19132.54,48,Houston
+HOU-003,PROD-0568,Fruits,grocery,187,Trader Joe's,2027-03-12 20:06:59.905361,315.11,58926.06,48,Houston
+HOU-003,PROD-0569,Rice,grocery,106,Aldi,2025-12-20 20:06:59.905572,343.24,36383.8,11,Houston
+HOU-003,PROD-0570,Desk,furniture,77,Ashley,2035-12-31,14.15,1089.63,10,Houston
+HOU-003,PROD-0571,Table,furniture,123,Crate & Barrel,2035-12-31,497.31,61168.87,47,Houston
+HOU-003,PROD-0572,Tea,beverages,114,Nestlé,2025-11-12 20:06:59.905762,830.12,94633.96,32,Houston
+HOU-003,PROD-0573,Smartwatch,electronics,108,LG,2030-01-01,401.6,43372.69,26,Houston
+HOU-003,PROD-0574,Iced Tea,beverages,146,Monster,2025-07-15 20:06:59.905900,27.15,3964.0,13,Houston
+HOU-003,PROD-0575,Canned Beans,grocery,186,Safeway,2025-10-11 20:06:59.905986,741.64,137945.71,22,Houston
+HOU-003,PROD-0576,Jacket,clothing,199,Levi's,2028-06-30,229.23,45617.38,27,Houston
+HOU-003,PROD-0577,Coconut Water,beverages,22,Pepsi,2025-11-15 20:06:59.906078,511.5,11253.09,40,Houston
+HOU-003,PROD-0578,Dress,clothing,100,Under Armour,2028-06-30,641.15,64114.71,14,Houston
+HOU-003,PROD-0579,Nightstand,furniture,107,West Elm,2035-12-31,219.78,23516.67,25,Houston
+HOU-003,PROD-0580,Portable Charger,electronics,44,Dell,2030-01-01,955.9,42059.77,40,Houston
+HOU-003,PROD-0581,Yogurt,grocery,113,Publix,2025-07-13 20:06:59.906283,535.48,60509.28,47,Houston
+HOU-003,PROD-0582,Pasta,grocery,29,Whole Foods,2026-03-26 20:06:59.906386,279.69,8110.9,43,Houston
+HOU-003,PROD-0583,Sneakers,clothing,89,Adidas,2028-06-30,377.08,33560.15,14,Houston
+HOU-003,PROD-0584,Cereal,grocery,45,Kroger,2026-02-28 20:06:59.906494,404.48,18201.44,20,Houston
+HOU-003,PROD-0585,Tablet,electronics,99,LG,2030-01-01,551.18,54566.48,49,Houston
+HOU-003,PROD-0586,Bookshelf,furniture,128,Steelcase,2035-12-31,783.86,100333.65,46,Houston
+HOU-003,PROD-0587,Game Console,electronics,108,Dell,2030-01-01,998.04,107788.31,12,Houston
+HOU-003,PROD-0588,Chair,furniture,176,IKEA,2035-12-31,951.73,167505.25,37,Houston
+HOU-003,PROD-0589,Dining Table,furniture,194,IKEA,2035-12-31,670.35,130047.35,26,Houston
+HOU-003,PROD-0590,Jeans,clothing,194,Nike,2028-06-30,519.25,100734.53,36,Houston
+HOU-003,PROD-0591,T-Shirt,clothing,16,Uniqlo,2028-06-30,426.88,6830.05,35,Houston
+HOU-003,PROD-0592,Sofa,furniture,92,Pottery Barn,2035-12-31,732.65,67403.78,12,Houston
+HOU-003,PROD-0593,Armchair,furniture,49,Ashley,2035-12-31,129.07,6324.57,14,Houston
+HOU-003,PROD-0594,Spices,grocery,32,Whole Foods,2026-02-23 20:06:59.907336,309.42,9901.5,26,Houston
+HOU-003,PROD-0595,Juice,beverages,166,Pepsi,2025-07-17 20:06:59.907488,571.69,94901.08,20,Houston
+HOU-003,PROD-0596,Hoodie,clothing,22,Adidas,2028-06-30,690.32,15186.97,35,Houston
+HOU-003,PROD-0597,Coffee,beverages,23,Sprite,2026-05-01 20:06:59.908054,533.44,12269.01,44,Houston
+HOU-003,PROD-0598,Vegetables,grocery,177,Trader Joe's,2025-07-29 20:06:59.908354,968.26,171382.81,41,Houston
+HOU-003,PROD-0599,Milk,beverages,74,Coca-Cola,2027-02-22 20:06:59.908432,400.14,29610.07,14,Houston
+HOU-003,PROD-0600,Laptop,electronics,105,HP,2030-01-01,996.52,104634.7,34,Houston
+SF-001,PROD-0601,Canned Beans,grocery,184,Walmart,2027-01-13 20:06:59.908681,261.97,48203.38,49,San Francisco
+SF-001,PROD-0602,Sneakers,clothing,129,H&M,2028-06-30,953.83,123043.62,44,San Francisco
+SF-001,PROD-0603,Desk,furniture,188,West Elm,2035-12-31,851.17,160020.29,25,San Francisco
+SF-001,PROD-0604,Energy Drink,beverages,22,Lipton,2026-01-04 20:06:59.908795,845.61,18603.52,16,San Francisco
+SF-001,PROD-0605,Portable Charger,electronics,173,Huawei,2030-01-01,268.93,46524.89,46,San Francisco
+SF-001,PROD-0606,Sweater,clothing,49,H&M,2028-06-30,133.42,6537.64,16,San Francisco
+SF-001,PROD-0607,Chair,furniture,162,Steelcase,2035-12-31,705.14,114231.9,11,San Francisco
+SF-001,PROD-0608,Coconut Water,beverages,184,Coca-Cola,2025-09-08 20:06:59.908930,247.1,45465.58,45,San Francisco
+SF-001,PROD-0609,Cereal,grocery,138,Walmart,2025-12-13 20:06:59.909001,84.6,11675.25,44,San Francisco
+SF-001,PROD-0610,Scarf,clothing,49,Puma,2028-06-30,92.83,4548.82,33,San Francisco
+SF-001,PROD-0611,Tea,beverages,164,Monster,2026-03-26 20:06:59.909126,283.69,46525.62,10,San Francisco
+SF-001,PROD-0612,Vegetables,grocery,40,Albertsons,2026-11-18 20:06:59.909201,407.44,16297.57,24,San Francisco
+SF-001,PROD-0613,Smartwatch,electronics,88,Huawei,2030-01-01,747.14,65748.06,39,San Francisco
+SF-001,PROD-0614,Camera,electronics,89,Panasonic,2030-01-01,743.95,66211.89,43,San Francisco
+SF-001,PROD-0615,Noodles,grocery,169,Whole Foods,2026-08-14 20:06:59.909329,66.38,11217.69,35,San Francisco
+SF-001,PROD-0616,Tablet,electronics,146,Samsung,2030-01-01,421.14,61485.87,42,San Francisco
+SF-001,PROD-0617,Armchair,furniture,47,Restoration Hardware,2035-12-31,478.12,22471.54,12,San Francisco
+SF-001,PROD-0618,Water,beverages,52,Red Bull,2026-12-29 20:06:59.909442,576.92,29999.73,37,San Francisco
+SF-001,PROD-0619,Rice,grocery,171,Walmart,2026-07-19 20:06:59.909514,412.64,70561.34,28,San Francisco
+SF-001,PROD-0620,Jacket,clothing,14,H&M,2028-06-30,882.36,12353.03,16,San Francisco
+SF-001,PROD-0621,Spices,grocery,37,Target,2025-08-01 20:06:59.909626,660.93,24454.27,19,San Francisco
+SF-001,PROD-0622,Milk,beverages,116,Dr Pepper,2025-09-10 20:06:59.909746,633.88,73530.06,34,San Francisco
+SF-001,PROD-0623,Bed,furniture,188,Ashley,2035-12-31,794.07,149286.05,19,San Francisco
+SF-001,PROD-0624,T-Shirt,clothing,62,Levi's,2028-06-30,658.35,40817.95,32,San Francisco
+SF-001,PROD-0625,Soda,beverages,90,Nestlé,2026-09-28 20:06:59.909878,845.99,76139.42,47,San Francisco
+SF-001,PROD-0626,Game Console,electronics,49,Dell,2030-01-01,899.51,44075.91,28,San Francisco
+SF-001,PROD-0627,Dining Table,furniture,110,IKEA,2035-12-31,275.44,30298.63,31,San Francisco
+SF-001,PROD-0628,Sofa,furniture,182,Steelcase,2035-12-31,824.48,150054.72,27,San Francisco
+SF-001,PROD-0629,Dress,clothing,75,Uniqlo,2028-06-30,974.22,73066.46,46,San Francisco
+SF-001,PROD-0630,Coffee,beverages,148,Dr Pepper,2025-08-11 20:06:59.910210,528.9,78277.19,29,San Francisco
+SF-001,PROD-0631,Lemonade,beverages,58,Red Bull,2026-10-19 20:06:59.910296,827.1,47971.88,33,San Francisco
+SF-001,PROD-0632,Juice,beverages,147,Coca-Cola,2026-04-02 20:06:59.910430,658.28,96766.97,12,San Francisco
+SF-001,PROD-0633,Yogurt,grocery,133,Walmart,2026-01-17 20:06:59.910523,791.37,105252.76,13,San Francisco
+SF-001,PROD-0634,Table,furniture,142,Wayfair,2035-12-31,810.22,115051.43,36,San Francisco
+SF-001,PROD-0635,Laptop,electronics,33,Sony,2030-01-01,343.51,11335.79,33,San Francisco
+SF-001,PROD-0636,Suit,clothing,141,Levi's,2028-06-30,878.65,123889.18,21,San Francisco
+SF-001,PROD-0637,Smartphone,electronics,104,Samsung,2030-01-01,241.47,25112.5,45,San Francisco
+SF-001,PROD-0638,Television,electronics,23,LG,2030-01-01,994.67,22877.5,44,San Francisco
+SF-001,PROD-0639,Shorts,clothing,171,Adidas,2028-06-30,551.78,94355.11,15,San Francisco
+SF-001,PROD-0640,Headphones,electronics,192,LG,2030-01-01,24.79,4759.54,22,San Francisco
+SF-001,PROD-0641,Bookshelf,furniture,194,Crate & Barrel,2035-12-31,433.93,84182.38,38,San Francisco
+SF-001,PROD-0642,Jeans,clothing,185,Nike,2028-06-30,833.3,154159.69,17,San Francisco
+SF-001,PROD-0643,Nightstand,furniture,198,Wayfair,2035-12-31,154.36,30564.08,10,San Francisco
+SF-001,PROD-0644,Pasta,grocery,84,Trader Joe's,2026-04-15 20:06:59.911212,83.47,7011.51,47,San Francisco
+SF-001,PROD-0645,Iced Tea,beverages,69,Dr Pepper,2025-11-15 20:06:59.911440,434.51,29981.49,38,San Francisco
+SF-001,PROD-0646,Hoodie,clothing,179,H&M,2028-06-30,901.98,161455.14,12,San Francisco
+SF-001,PROD-0647,Bread,grocery,17,Aldi,2026-01-31 20:06:59.911967,813.39,13827.65,16,San Francisco
+SF-001,PROD-0648,Smart Speaker,electronics,161,Sony,2030-01-01,498.63,80278.83,35,San Francisco
+SF-001,PROD-0649,Fruits,grocery,16,Costco,2026-02-22 20:06:59.912449,264.71,4235.4,26,San Francisco
+SF-001,PROD-0650,Cabinet,furniture,48,La-Z-Boy,2035-12-31,246.89,11850.74,26,San Francisco
+SF-002,PROD-0651,Table,furniture,55,Pottery Barn,2035-12-31,459.11,25251.25,15,San Francisco
+SF-002,PROD-0652,Spices,grocery,28,Costco,2025-12-19 20:06:59.912807,550.95,15426.5,49,San Francisco
+SF-002,PROD-0653,Water,beverages,184,Lipton,2025-06-16 20:06:59.912885,265.17,48791.39,11,San Francisco
+SF-002,PROD-0654,Lemonade,beverages,39,Fanta,2026-08-13 20:06:59.912957,702.91,27413.61,39,San Francisco
+SF-002,PROD-0655,T-Shirt,clothing,191,Puma,2028-06-30,691.38,132052.9,18,San Francisco
+SF-002,PROD-0656,Iced Tea,beverages,91,Pepsi,2026-07-16 20:06:59.913048,933.95,84989.37,43,San Francisco
+SF-002,PROD-0657,Juice,beverages,98,Dr Pepper,2025-05-19 20:06:59.913118,771.59,75615.94,31,San Francisco
+SF-002,PROD-0658,Coconut Water,beverages,72,Coca-Cola,2026-12-16 20:06:59.913188,671.19,48325.94,36,San Francisco
+SF-002,PROD-0659,Portable Charger,electronics,174,Samsung,2030-01-01,203.32,35378.17,23,San Francisco
+SF-002,PROD-0660,Smart Speaker,electronics,145,Dell,2030-01-01,247.7,35916.67,41,San Francisco
+SF-002,PROD-0661,Laptop,electronics,139,Sony,2030-01-01,854.96,118839.79,22,San Francisco
+SF-002,PROD-0662,Scarf,clothing,60,H&M,2028-06-30,84.86,5091.7,23,San Francisco
+SF-002,PROD-0663,Suit,clothing,104,Uniqlo,2028-06-30,889.06,92462.25,41,San Francisco
+SF-002,PROD-0664,Cabinet,furniture,164,Restoration Hardware,2035-12-31,877.7,143943.0,17,San Francisco
+SF-002,PROD-0665,Bookshelf,furniture,25,Room & Board,2035-12-31,514.63,12865.86,26,San Francisco
+SF-002,PROD-0666,Chair,furniture,129,Wayfair,2035-12-31,579.65,74774.58,19,San Francisco
+SF-002,PROD-0667,Vegetables,grocery,66,Kroger,2026-08-13 20:06:59.913434,803.03,53000.19,49,San Francisco
+SF-002,PROD-0668,Coffee,beverages,67,Lipton,2025-06-10 20:06:59.913541,42.59,2853.52,46,San Francisco
+SF-002,PROD-0669,Headphones,electronics,112,Samsung,2030-01-01,456.88,51170.32,41,San Francisco
+SF-002,PROD-0670,Sneakers,clothing,72,Nike,2028-06-30,284.35,20473.01,25,San Francisco
+SF-002,PROD-0671,Sofa,furniture,113,Steelcase,2035-12-31,557.16,62958.69,15,San Francisco
+SF-002,PROD-0672,Camera,electronics,158,LG,2030-01-01,312.13,49316.89,24,San Francisco
+SF-002,PROD-0673,Noodles,grocery,46,Safeway,2026-11-05 20:06:59.913723,427.17,19649.84,48,San Francisco
+SF-002,PROD-0674,Dress,clothing,119,Puma,2028-06-30,881.33,104877.81,49,San Francisco
+SF-002,PROD-0675,Smartphone,electronics,109,Samsung,2030-01-01,964.8,105163.49,32,San Francisco
+SF-002,PROD-0676,Nightstand,furniture,27,Steelcase,2035-12-31,343.04,9262.03,48,San Francisco
+SF-002,PROD-0677,Game Console,electronics,27,LG,2030-01-01,708.49,19129.33,22,San Francisco
+SF-002,PROD-0678,Fruits,grocery,69,Walmart,2026-09-24 20:06:59.913983,988.0,68171.94,17,San Francisco
+SF-002,PROD-0679,Television,electronics,141,HP,2030-01-01,64.31,9068.09,19,San Francisco
+SF-002,PROD-0680,Jeans,clothing,50,Zara,2028-06-30,793.8,39689.77,33,San Francisco
+SF-002,PROD-0681,Rice,grocery,18,Walmart,2026-11-12 20:06:59.914152,534.35,9618.21,35,San Francisco
+SF-002,PROD-0682,Canned Beans,grocery,188,Costco,2026-05-20 20:06:59.914275,373.93,70298.92,22,San Francisco
+SF-002,PROD-0683,Yogurt,grocery,171,Walmart,2025-12-24 20:06:59.914364,497.52,85075.31,25,San Francisco
+SF-002,PROD-0684,Jacket,clothing,44,Gap,2028-06-30,385.34,16955.06,27,San Francisco
+SF-002,PROD-0685,Soda,beverages,172,Fanta,2026-09-16 20:06:59.914506,42.08,7237.89,49,San Francisco
+SF-002,PROD-0686,Dining Table,furniture,53,Pottery Barn,2035-12-31,745.18,39494.38,34,San Francisco
+SF-002,PROD-0687,Hoodie,clothing,95,Levi's,2028-06-30,854.13,81142.38,21,San Francisco
+SF-002,PROD-0688,Desk,furniture,86,Steelcase,2035-12-31,713.42,61354.26,29,San Francisco
+SF-002,PROD-0689,Bread,grocery,38,Safeway,2026-02-24 20:06:59.914639,846.37,32162.08,15,San Francisco
+SF-002,PROD-0690,Tea,beverages,61,Monster,2026-06-08 20:06:59.914713,605.21,36917.86,31,San Francisco
+SF-002,PROD-0691,Tablet,electronics,52,Bose,2030-01-01,822.7,42780.36,45,San Francisco
+SF-002,PROD-0692,Cereal,grocery,37,Walmart,2026-06-16 20:06:59.915216,836.67,30956.95,48,San Francisco
+SF-002,PROD-0693,Energy Drink,beverages,121,Red Bull,2026-05-02 20:06:59.915291,456.4,55224.35,37,San Francisco
+SF-002,PROD-0694,Milk,beverages,38,Nestlé,2026-04-07 20:06:59.915378,208.6,7926.95,28,San Francisco
+SF-002,PROD-0695,Sweater,clothing,120,Under Armour,2028-06-30,353.75,42449.5,11,San Francisco
+SF-002,PROD-0696,Pasta,grocery,27,Trader Joe's,2025-11-14 20:06:59.915668,247.88,6692.71,23,San Francisco
+SF-002,PROD-0697,Armchair,furniture,94,Room & Board,2035-12-31,822.66,77329.99,34,San Francisco
+SF-002,PROD-0698,Bed,furniture,187,Room & Board,2035-12-31,13.01,2433.31,10,San Francisco
+SF-002,PROD-0699,Shorts,clothing,77,Uniqlo,2028-06-30,476.31,36676.14,31,San Francisco
+SF-002,PROD-0700,Smartwatch,electronics,145,Sony,2030-01-01,402.74,58397.73,28,San Francisco
+SF-003,PROD-0701,Suit,clothing,118,Nike,2028-06-30,429.44,50674.19,26,San Francisco
+SF-003,PROD-0702,Chair,furniture,45,Wayfair,2035-12-31,286.18,12878.19,46,San Francisco
+SF-003,PROD-0703,Tea,beverages,198,Nestlé,2025-09-27 20:06:59.916408,821.71,162697.84,32,San Francisco
+SF-003,PROD-0704,Laptop,electronics,88,Microsoft,2030-01-01,526.97,46373.67,27,San Francisco
+SF-003,PROD-0705,Pasta,grocery,149,Trader Joe's,2026-08-17 20:06:59.916506,718.94,107122.45,27,San Francisco
+SF-003,PROD-0706,Coffee,beverages,90,Pepsi,2026-01-24 20:06:59.916596,84.99,7649.53,16,San Francisco
+SF-003,PROD-0707,Milk,beverages,194,Pepsi,2025-06-28 20:06:59.916669,876.99,170136.39,32,San Francisco
+SF-003,PROD-0708,Bed,furniture,194,Room & Board,2035-12-31,364.33,70679.68,30,San Francisco
+SF-003,PROD-0709,Vegetables,grocery,176,Aldi,2027-02-24 20:06:59.916765,874.15,153850.33,48,San Francisco
+SF-003,PROD-0710,Rice,grocery,166,Albertsons,2025-10-31 20:06:59.916840,408.87,67872.81,26,San Francisco
+SF-003,PROD-0711,Sneakers,clothing,147,Uniqlo,2028-06-30,513.82,75531.32,27,San Francisco
+SF-003,PROD-0712,Noodles,grocery,151,Publix,2025-07-21 20:06:59.916931,83.88,12665.4,17,San Francisco
+SF-003,PROD-0713,Headphones,electronics,176,Bose,2030-01-01,249.67,43941.93,24,San Francisco
+SF-003,PROD-0714,Smartwatch,electronics,181,Microsoft,2030-01-01,672.29,121684.36,35,San Francisco
+SF-003,PROD-0715,Camera,electronics,66,Dell,2030-01-01,139.21,9188.13,24,San Francisco
+SF-003,PROD-0716,Table,furniture,17,Restoration Hardware,2035-12-31,512.02,8704.33,11,San Francisco
+SF-003,PROD-0717,Sweater,clothing,129,Under Armour,2028-06-30,161.18,20792.55,32,San Francisco
+SF-003,PROD-0718,Cabinet,furniture,168,Crate & Barrel,2035-12-31,975.77,163930.02,47,San Francisco
+SF-003,PROD-0719,Tablet,electronics,52,LG,2030-01-01,16.52,859.24,12,San Francisco
+SF-003,PROD-0720,Bread,grocery,196,Safeway,2026-08-09 20:06:59.917223,479.24,93931.21,22,San Francisco
+SF-003,PROD-0721,Jeans,clothing,76,Adidas,2028-06-30,892.61,67838.3,34,San Francisco
+SF-003,PROD-0722,Soda,beverages,125,Monster,2025-05-29 20:06:59.917382,40.81,5100.82,37,San Francisco
+SF-003,PROD-0723,Smartphone,electronics,31,Apple,2030-01-01,118.22,3664.73,40,San Francisco
+SF-003,PROD-0724,Iced Tea,beverages,61,Pepsi,2025-12-16 20:06:59.917521,389.31,23748.21,28,San Francisco
+SF-003,PROD-0725,Desk,furniture,143,Ashley,2035-12-31,975.54,139502.92,45,San Francisco
+SF-003,PROD-0726,Spices,grocery,168,Safeway,2025-10-25 20:06:59.917613,627.86,105479.87,37,San Francisco
+SF-003,PROD-0727,Sofa,furniture,132,Crate & Barrel,2035-12-31,463.14,61134.71,38,San Francisco
+SF-003,PROD-0728,Game Console,electronics,125,HP,2030-01-01,63.99,7998.8,35,San Francisco
+SF-003,PROD-0729,Armchair,furniture,20,Pottery Barn,2035-12-31,661.73,13234.66,49,San Francisco
+SF-003,PROD-0730,Dining Table,furniture,164,Wayfair,2035-12-31,69.85,11455.9,48,San Francisco
+SF-003,PROD-0731,Dress,clothing,20,Adidas,2028-06-30,312.7,6253.9,27,San Francisco
+SF-003,PROD-0732,Fruits,grocery,176,Aldi,2026-11-04 20:06:59.917876,243.03,42773.77,15,San Francisco
+SF-003,PROD-0733,Bookshelf,furniture,199,Wayfair,2035-12-31,550.09,109467.3,12,San Francisco
+SF-003,PROD-0734,Lemonade,beverages,72,Sprite,2027-01-19 20:06:59.918077,43.83,3156.0,46,San Francisco
+SF-003,PROD-0735,Smart Speaker,electronics,34,Microsoft,2030-01-01,889.13,30230.38,44,San Francisco
+SF-003,PROD-0736,Hoodie,clothing,191,Uniqlo,2028-06-30,749.62,143176.48,20,San Francisco
+SF-003,PROD-0737,Portable Charger,electronics,179,Bose,2030-01-01,654.93,117231.82,17,San Francisco
+SF-003,PROD-0738,T-Shirt,clothing,132,Nike,2028-06-30,177.81,23471.46,15,San Francisco
+SF-003,PROD-0739,Scarf,clothing,146,Uniqlo,2028-06-30,106.24,15511.12,11,San Francisco
+SF-003,PROD-0740,Energy Drink,beverages,27,Fanta,2027-01-22 20:06:59.918409,389.16,10507.3,47,San Francisco
+SF-003,PROD-0741,Water,beverages,167,Nestlé,2025-09-11 20:06:59.918699,606.4,101269.13,22,San Francisco
+SF-003,PROD-0742,Juice,beverages,123,Gatorade,2025-07-09 20:06:59.918866,769.65,94666.81,30,San Francisco
+SF-003,PROD-0743,Television,electronics,19,HP,2030-01-01,836.88,15900.78,35,San Francisco
+SF-003,PROD-0744,Cereal,grocery,179,Kroger,2026-12-13 20:06:59.919101,69.39,12421.69,27,San Francisco
+SF-003,PROD-0745,Jacket,clothing,107,Puma,2028-06-30,785.97,84098.91,14,San Francisco
+SF-003,PROD-0746,Shorts,clothing,36,Adidas,2028-06-30,763.03,27469.0,46,San Francisco
+SF-003,PROD-0747,Yogurt,grocery,181,Kroger,2027-03-18 20:06:59.919635,154.66,27993.2,46,San Francisco
+SF-003,PROD-0748,Canned Beans,grocery,143,Safeway,2026-09-24 20:06:59.919831,156.39,22364.34,14,San Francisco
+SF-003,PROD-0749,Nightstand,furniture,144,Room & Board,2035-12-31,650.1,93614.51,10,San Francisco
+SF-003,PROD-0750,Coconut Water,beverages,170,Nestlé,2026-02-09 20:06:59.920613,979.1,166447.65,14,San Francisco
